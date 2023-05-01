@@ -6,6 +6,22 @@ hero:
   name: "Health"
   text: "Gym & diet tracker"
   tagline: Gotta train 'em all
+  actions:
+    - theme: brand
+      text: Allenamento A
+      link: /allenamento/2023-04/allenamento-A
+    - theme: alt
+      text: Allenamento B
+      link: /allenamento/2023-04/allenamento-B
+    - theme: alt
+      text: Allenamento C
+      link: /allenamento/2023-04/allenamento-C
+    - theme: brand
+      text: Colazione/Spuntino
+      link: /dieta/2023-04/colazione-spuntino
+    - theme: alt
+      text: Pranzo/Cena
+      link: /dieta/2023-04/pranzo-cena
 
 features:
   - title: Allenamento A
