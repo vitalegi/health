@@ -8,15 +8,13 @@ hero:
   tagline: Gotta train 'em all
 
 features:
-  - title: Allenamento A
-    details: Gym
+  - title: Scheda A
     link: /allenamento/2023-04/allenamento-A
-  - title: Allenamento B
+  - title: Scheda B
     link: /allenamento/2023-04/allenamento-B
-  - title: Allenamento C
+  - title: Scheda C
     link: /allenamento/2023-04/allenamento-C
   - title: Colazione/Spuntino
-    details: Diet
     link: /dieta/2023-04/colazione-spuntino
   - title: Pranzo/Cena
     link: /dieta/2023-04/pranzo-cena
