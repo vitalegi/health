@@ -1,5 +1,7 @@
 # Allenamento C
 
+[[toc]]
+
 ## Incline leg press da PIN
 
 Incline leg press da PIN (3/4 ROM), 1' recupero e rispettivo RM

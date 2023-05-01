@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 ## Mezzo stacco
 
 Mezzo stacco 6x6 con 6RM e recupero di 1'30''

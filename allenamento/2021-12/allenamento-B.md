@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 ## Squat da PIN 4 x 10 con 10RM e recupero di 1'
 
 | Data       | Peso (Kg) |

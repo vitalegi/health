@@ -1,5 +1,7 @@
 # Allenamento C
 
+[[toc]]
+
 _Doppio asciugamano!_
 
 ## Affondi in camminata x 8/10 (16/20 passi totali) con 10RM + 60''+ Spinte con manubri su p.80° x 8/10 con 10RM (4 giri con 1' rec)

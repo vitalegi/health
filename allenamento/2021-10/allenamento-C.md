@@ -1,5 +1,7 @@
 # Allenamento C
 
+[[toc]]
+
 ## Incline leg press (gialla) 4x10/12 con 12RM
 
 | Data       | Recupero | Peso (Kg) |

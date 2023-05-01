@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 ## Affondi in camminata 3x10/12 con 12RM
 
 | Data       | Recupero | Peso (Kg) |

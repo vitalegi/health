@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 ## Push up a corpo libero
 
 Push up a corpo libero 8x8 con 30'' recupero

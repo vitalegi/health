@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 Range cedimento consentito -1 o -2
 
 ## Affondo statico + distensioni su panca piana con manubri

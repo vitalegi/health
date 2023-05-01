@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 Range cedimento consentito -1 o -2 
 
 ## Panca piana da PIN

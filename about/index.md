@@ -18,7 +18,7 @@ const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/6169537',
     name: 'Giorgio Vitale',
-    title: 'Creator',
+    title: 'Sguattero',
     links: [
       { icon: 'github', link: 'https://github.com/vitalegi' },
       { icon: 'instagram', link: 'https://www.instagram.com/giorgio.bellavita.vitale' },

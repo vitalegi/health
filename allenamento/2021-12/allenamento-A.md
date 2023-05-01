@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 _Doppio asciugamano!_
 
 ## Incline leg press x 8/10 con 10RM + 60'' + Spinte con manubri su p.30° x 8/10 con 10RM (4 giri con 1' rec)

@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 ## Incline leg press
 
 Incline leg press 4x10/12 con 12RM e 1' di recupero

@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 Range cedimento consentito -1 o -2
 
 ## Rematore manubri con busto in appoggio su p.30° + Distensioni su p. 80° con manubri

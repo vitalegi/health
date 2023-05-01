@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 ## Chest press PURE STRENGTH
 
 Chest press PURE STRENGTH 4x10/12 con 12RM e 1' recupero

@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 ## Incline leg press (nera) 4x10/12 con 12RM
 
 | Data       | Recupero | Peso (Kg) |

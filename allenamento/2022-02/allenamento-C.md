@@ -1,5 +1,7 @@
 # Allenamento C
 
+[[toc]]
+
 ## Shoulder press PURE STRENGTH
 
 Shoulder press PURE STRENGTH 4x10/12 con 12RM e 1' recupero

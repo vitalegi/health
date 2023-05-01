@@ -1,5 +1,7 @@
 # Allenamento A
 
+[[toc]]
+
 ## Affondi in camminata
 
 Affondi in camminata 3x10 (20 passi) con 10RM e recupero di 1'

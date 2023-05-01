@@ -291,11 +291,12 @@ export default defineConfig({
         text: "About",
         link: "/about/",
       },
-    ],
-
+    ],  
+    lastUpdatedText: "Modificato il",  
     socialLinks: [
       { icon: "github", link: "https://github.com/vitalegi/health" },
     ],
   },
+  lastUpdated: true,
   srcExclude: ["README.md"],
 });
