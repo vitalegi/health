@@ -11,9 +11,9 @@ import {
 
 const members = [
   {
-    avatar: '/about/princimicio.jpg',
+    avatar: '/princimicio.jpg',
     name: 'Pinco Princi Puccio Micio',
-    title: 'Scrum Master'
+    title: 'Team Leader'
   },
   {
     avatar: 'https://avatars.githubusercontent.com/u/6169537',
