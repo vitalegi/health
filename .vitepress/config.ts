@@ -6,8 +6,13 @@ export default defineConfig({
   description: "My train&diet tracker",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
-
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "About", link: "/about/" },
+    ],
+    search: {
+      provider: "local",
+    },
     sidebar: [
       {
         text: "Palestra",
@@ -281,6 +286,10 @@ export default defineConfig({
             ],
           },
         ],
+      },
+      {
+        text: "About",
+        link: "/about/",
       },
     ],
 

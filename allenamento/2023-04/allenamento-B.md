@@ -1,5 +1,7 @@
 # Allenamento B
 
+[[toc]]
+
 Range cedimento consentito -1 o -2
 
 ## Rematore con bilanciere, 1'30'' di recupero
