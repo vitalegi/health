@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
+      { text: "Repo", link: "https://github.com/vitalegi/health" }, 
       { text: "About", link: "/about/" },
     ],
     search: {
