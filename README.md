@@ -1,5 +1,7 @@
 # README
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41f2dbb5-eae2-424d-9ae5-75e7a4006d2e/deploy-status)](https://app.netlify.com/sites/health-vitalegi/deploys)
+
 ## Dev server
 
 ```bash
