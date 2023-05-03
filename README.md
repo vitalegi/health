@@ -1,8 +1,8 @@
 # README
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/41f2dbb5-eae2-424d-9ae5-75e7a4006d2e/deploy-status)](https://app.netlify.com/sites/health-vitalegi/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41f2dbb5-eae2-424d-9ae5-75e7a4006d2e/deploy-status)](https://app.netlify.com/sites/health-vitalegi/deploys) ![GitHub pull requests](https://img.shields.io/github/issues-pr/vitalegi/health) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/vitalegi/health/dev/vitepress)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/vitalegi/health)
+
 
 ## Dev server
 
