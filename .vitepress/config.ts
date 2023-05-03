@@ -293,7 +293,11 @@ export default defineConfig({
         link: "/about/",
       },
     ],  
-    lastUpdatedText: "Modificato il",  
+    lastUpdatedText: "Modificato il",
+    editLink: {
+      pattern: 'https://github.com/vitalegi/health/edit/master/:path',
+      text: 'Edit this page on GitHub'
+    }, 
     socialLinks: [
       { icon: "github", link: "https://github.com/vitalegi/health" },
     ],
