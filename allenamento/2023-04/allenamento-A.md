@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 11-04 | 3x10  | 25   |                            |
-| 2 - xx-yy | 3x10  |      |                            |
+| 2 - 02-05 | 3x10  | 20   |                            |
 | 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
@@ -22,7 +22,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 11-04 | 3x10  | 20   |                            |
-| 2 - xx-yy | 3x10  |      |                            |
+| 2 - 02-05 | 3x10  | 20   |                            |
 | 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
@@ -40,7 +40,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 11-04 | 3x15  | 25   |                            |
-| 2 - xx-yy | 3x15  |      |                            |
+| 2 - 02-05 | 3x15  | 20   |                            |
 | 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
@@ -55,7 +55,7 @@ Scendi, fai pausa, spingi, sali
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 11-04 | 3x15  | 100  |                            |
-| 2 - xx-yy | 3x15  |      |                            |
+| 2 - 02-05 | 3x15  | 90   |                            |
 | 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
@@ -70,7 +70,7 @@ Devi arrivare alle tot ripetizioni, parti da 100 e man mano cala il peso.
 | Data      | Durata | Recupero |
 | --------- | ------ | -------- |
 | 1 - 11-04 | 30''   | 1'30''   |
-| 2 - xx-yy | 30''   | 1'30''   |
+| 2 - 02-05 | 30''   | 1'30''   |
 | 3 - xx-yy | 30''   | 1'       |
 | 4 - xx-yy | 30''   | 1'       |
 | 5 - xx-yy | 45''   | 1'30''   |
