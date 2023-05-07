@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 18-04 | 3x10  | 47.5 |                            |
-| 2 - xx-yy | 3x10  |      |                            |
+| 2 - 07-05 | 3x10  | 45   |                            |
 | 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
@@ -28,7 +28,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 18-04 | 3x10  | 20   |                            |
-| 2 - xx-yy | 3x10  |      |                            |
+| 2 - 07-05 | 3x10  | 20   |                            |
 | 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
 | 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
@@ -48,7 +48,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 18-04 | 3x15  | 30   |                            |
-| 2 - xx-yy | 3x15  |      |                            |
+| 2 - 07-05 | 3x15  | 40   |                            |
 | 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
@@ -68,7 +68,7 @@ Range cedimento consentito -1 o -2
 | Data      | Serie | Peso | Note                       |
 | --------- | ----- | ---- | -------------------------- |
 | 1 - 18-04 | 3x15  | 3.75 |                            |
-| 2 - xx-yy | 3x15  |      |                            |
+| 2 - 07-05 | 3x15  | 3.75 |                            |
 | 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
 | 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
@@ -85,7 +85,7 @@ Range cedimento consentito -1 o -2
 | Data      | Durata | Recupero |
 | --------- | ------ | -------- |
 | 1 - 18-04 | 30''   | 1'30''   |
-| 2 - xx-yy | 30''   | 1'30''   |
+| 2 - 07-05 | 30''   | 1'30''   |
 | 3 - xx-yy | 30''   | 1'       |
 | 4 - xx-yy | 30''   | 1'       |
 | 5 - xx-yy | 45''   | 1'30''   |
