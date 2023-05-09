@@ -1,4 +1,4 @@
-# Allenamento B
+# 2022-07 - B
 
 [[toc]]
 

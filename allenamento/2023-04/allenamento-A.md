@@ -1,82 +1,94 @@
-# Allenamento A
+# 2023-04 - A
 
 [[toc]]
 
 Range cedimento consentito -1 o -2
 
+## Sessioni
+
+| #   | Data  |
+| --- | ----- |
+| 1   | 11-04 |
+| 2   | 02-05 |
+| 3   | xx-yy |
+| 4   | xx-yy |
+| 5   | xx-yy |
+| 6   | xx-yy |
+| 7   | xx-yy |
+| 8   | xx-yy |
+
 ## Panca piana con bilanciere, 1' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 11-04 | 3x10  | 25   |                            |
-| 2 - 02-05 | 3x10  | 20   |                            |
-| 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 6 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 7 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x10  | 25   |                            |
+| 2   | 3x10  | 20   |                            |
+| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 4   | 4x8   |      | incremento carico sett 1-2 |
+| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 7   | 5x10  |      | stesso carico sett 3-4     |
+| 8   | 5x10  |      | stesso carico sett 3-4     |
 
 ## Hack squat, 1'30'' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 11-04 | 3x10  | 20   |                            |
-| 2 - 02-05 | 3x10  | 20   |                            |
-| 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 6 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 7 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x10  | 20   |                            |
+| 2   | 3x10  | 20   |                            |
+| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 4   | 4x8   |      | incremento carico sett 1-2 |
+| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 7   | 5x10  |      | stesso carico sett 3-4     |
+| 8   | 5x10  |      | stesso carico sett 3-4     |
 
 - Nella discesa, scendi oltre le ginocchia
 - Appoggia tutto il piede. **Attenzione a non sollevare il tallone**
 - Non staccare il culo dallo schienale
--
 
 ## Chest press, 1' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 11-04 | 3x15  | 25   |                            |
-| 2 - 02-05 | 3x15  | 20   |                            |
-| 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 6 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 7 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x15  | 25   |                            |
+| 2   | 3x15  | 20   |                            |
+| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 4   | 4x15  |      | stesso carico sett 1-2     |
+| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 7   | 4x12  |      | stesso carico sett 3-4     |
+| 8   | 4x12  |      | stesso carico sett 3-4     |
 
 Scendi, fai pausa, spingi, sali
 
 ## Incline leg press, 1' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 11-04 | 3x15  | 100  |                            |
-| 2 - 02-05 | 3x15  | 90   |                            |
-| 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 6 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 7 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x15  | 100  |                            |
+| 2   | 3x15  | 90   |                            |
+| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 4   | 4x15  |      | stesso carico sett 1-2     |
+| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 7   | 4x12  |      | stesso carico sett 3-4     |
+| 8   | 4x12  |      | stesso carico sett 3-4     |
 
 Devi arrivare alle tot ripetizioni, parti da 100 e man mano cala il peso.
 
 ## Circuito Burpees + Mountain Climber + Spider plank x 3
 
-| Data      | Durata | Recupero |
-| --------- | ------ | -------- |
-| 1 - 11-04 | 30''   | 1'30''   |
-| 2 - 02-05 | 30''   | 1'30''   |
-| 3 - xx-yy | 30''   | 1'       |
-| 4 - xx-yy | 30''   | 1'       |
-| 5 - xx-yy | 45''   | 1'30''   |
-| 6 - xx-yy | 45''   | 1'30''   |
-| 7 - xx-yy | 45''   | 1'       |
-| 8 - xx-yy | 45''   | 1'       |
+| #   | Durata | Recupero |
+| --- | ------ | -------- |
+| 1   | 30''   | 1'30''   |
+| 2   | 30''   | 1'30''   |
+| 3   | 30''   | 1'       |
+| 4   | 30''   | 1'       |
+| 5   | 45''   | 1'30''   |
+| 6   | 45''   | 1'30''   |
+| 7   | 45''   | 1'       |
+| 8   | 45''   | 1'       |
 
 ### Burpees
 

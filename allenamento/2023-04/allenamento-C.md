@@ -1,21 +1,34 @@
-# Allenamento C
+# 2023-04 - C
 
 [[toc]]
 
 Range cedimento consentito -1 o -2
 
+## Sessioni
+
+| #   | Data  |
+| --- | ----- |
+| 1   | 18-04 |
+| 2   | 07-05 |
+| 3   | xx-yy |
+| 4   | xx-yy |
+| 5   | xx-yy |
+| 6   | xx-yy |
+| 7   | xx-yy |
+| 8   | xx-yy |
+
 ## Lat machine, 1'30'' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 18-04 | 3x10  | 47.5 |                            |
-| 2 - 07-05 | 3x10  | 45   |                            |
-| 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 6 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 7 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x10  | 47.5 |                            |
+| 2   | 3x10  | 45   |                            |
+| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 4   | 4x8   |      | incremento carico sett 1-2 |
+| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 7   | 5x10  |      | stesso carico sett 3-4     |
+| 8   | 5x10  |      | stesso carico sett 3-4     |
 
 - Devi arrivare sempre a 8-10 ripetizioni. Se non ce la fai, cala il peso.
 - Contrai l'addome
@@ -25,16 +38,16 @@ Range cedimento consentito -1 o -2
 
 ## Stacco da terra, 1'30'' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 18-04 | 3x10  | 20   |                            |
-| 2 - 07-05 | 3x10  | 20   |                            |
-| 3 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 4 - xx-yy | 4x8   |      | incremento carico sett 1-2 |
-| 5 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 6 - xx-yy | 4x10  |      | stesso carico sett 3-4     |
-| 7 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 5x10  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x10  | 20   |                            |
+| 2   | 3x10  | 20   |                            |
+| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 4   | 4x8   |      | incremento carico sett 1-2 |
+| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 7   | 5x10  |      | stesso carico sett 3-4     |
+| 8   | 5x10  |      | stesso carico sett 3-4     |
 
 - Mani sull'esterno delle ginocchia, presa stretta
 - Contrai culo
@@ -45,16 +58,16 @@ Range cedimento consentito -1 o -2
 
 ## Pulldown PURE, 1' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 18-04 | 3x15  | 30   |                            |
-| 2 - 07-05 | 3x15  | 40   |                            |
-| 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 6 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 7 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x15  | 30   |                            |
+| 2   | 3x15  | 40   |                            |
+| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 4   | 4x15  |      | stesso carico sett 1-2     |
+| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 7   | 4x12  |      | stesso carico sett 3-4     |
+| 8   | 4x12  |      | stesso carico sett 3-4     |
 
 - Devi arrivare sempre alle ripetizioni. Se non ce la fai, cala il peso.
 - Butti fuori il petto
@@ -65,16 +78,16 @@ Range cedimento consentito -1 o -2
 
 ## Leg curl PURE, enfasi attivazione, 1' di recupero
 
-| Data      | Serie | Peso | Note                       |
-| --------- | ----- | ---- | -------------------------- |
-| 1 - 18-04 | 3x15  | 3.75 |                            |
-| 2 - 07-05 | 3x15  | 3.75 |                            |
-| 3 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 4 - xx-yy | 4x15  |      | stesso carico sett 1-2     |
-| 5 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 6 - xx-yy | 3x12  |      | incremento carico sett 3-4 |
-| 7 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
-| 8 - xx-yy | 4x12  |      | stesso carico sett 3-4     |
+| #   | Serie | Peso | Note                       |
+| --- | ----- | ---- | -------------------------- |
+| 1   | 3x15  | 3.75 |                            |
+| 2   | 3x15  | 3.75 |                            |
+| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 4   | 4x15  |      | stesso carico sett 1-2     |
+| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 7   | 4x12  |      | stesso carico sett 3-4     |
+| 8   | 4x12  |      | stesso carico sett 3-4     |
 
 - Altezza pedana: 6
 - Parti da giù, contrai la gamba, tieni la tensione 2'', sali
@@ -82,16 +95,16 @@ Range cedimento consentito -1 o -2
 
 ## Circuito Burpees + Mountain Climber + Spider plank x 3
 
-| Data      | Durata | Recupero |
-| --------- | ------ | -------- |
-| 1 - 18-04 | 30''   | 1'30''   |
-| 2 - 07-05 | 30''   | 1'30''   |
-| 3 - xx-yy | 30''   | 1'       |
-| 4 - xx-yy | 30''   | 1'       |
-| 5 - xx-yy | 45''   | 1'30''   |
-| 6 - xx-yy | 45''   | 1'30''   |
-| 7 - xx-yy | 45''   | 1'       |
-| 8 - xx-yy | 45''   | 1'       |
+| #   | Durata | Recupero |
+| --- | ------ | -------- |
+| 1   | 30''   | 1'30''   |
+| 2   | 30''   | 1'30''   |
+| 3   | 30''   | 1'       |
+| 4   | 30''   | 1'       |
+| 5   | 45''   | 1'30''   |
+| 6   | 45''   | 1'30''   |
+| 7   | 45''   | 1'       |
+| 8   | 45''   | 1'       |
 
 ### Burpees
 

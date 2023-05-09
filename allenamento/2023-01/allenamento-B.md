@@ -1,4 +1,4 @@
-# Allenamento B
+# 2023-01 - B
 
 [[toc]]
 
