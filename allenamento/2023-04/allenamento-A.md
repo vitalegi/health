@@ -1,5 +1,21 @@
 # 2023-04 - A
 
+bbbbbb
+
+<Mermaid diagram="
+graph TB
+  a-->b
+"/>
+
+aaaa
+
+<Mermaid diagram="
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+"/>
+
 [[toc]]
 
 Range cedimento consentito -1 o -2

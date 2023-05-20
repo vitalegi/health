@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "mermaid": "^10.1.0",
     "vitepress": "^1.0.0-alpha.75"
   },
   "scripts": {
