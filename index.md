@@ -18,4 +18,6 @@ features:
     link: /dieta/2023-04/colazione-spuntino
   - title: Pranzo/Cena
     link: /dieta/2023-04/pranzo-cena
+  - title: Sessioni
+    link: /sessioni.md
 ---
