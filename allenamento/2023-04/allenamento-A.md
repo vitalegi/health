@@ -10,7 +10,7 @@ Range cedimento consentito -1 o -2
 | --- | ----- |
 | 1   | 11-04 |
 | 2   | 02-05 |
-| 3   | xx-yy |
+| 3   | 30-05 |
 | 4   | xx-yy |
 | 5   | xx-yy |
 | 6   | xx-yy |
@@ -23,7 +23,7 @@ Range cedimento consentito -1 o -2
 | --- | ----- | ---- | -------------------------- |
 | 1   | 3x10  | 25   |                            |
 | 2   | 3x10  | 20   |                            |
-| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 3   | 4x8   | 20   | incremento carico sett 1-2 |
 | 4   | 4x8   |      | incremento carico sett 1-2 |
 | 5   | 4x10  |      | stesso carico sett 3-4     |
 | 6   | 4x10  |      | stesso carico sett 3-4     |
@@ -36,7 +36,7 @@ Range cedimento consentito -1 o -2
 | --- | ----- | ---- | -------------------------- |
 | 1   | 3x10  | 20   |                            |
 | 2   | 3x10  | 20   |                            |
-| 3   | 4x8   |      | incremento carico sett 1-2 |
+| 3   | 4x8   | 20   | incremento carico sett 1-2 |
 | 4   | 4x8   |      | incremento carico sett 1-2 |
 | 5   | 4x10  |      | stesso carico sett 3-4     |
 | 6   | 4x10  |      | stesso carico sett 3-4     |
@@ -53,7 +53,7 @@ Range cedimento consentito -1 o -2
 | --- | ----- | ---- | -------------------------- |
 | 1   | 3x15  | 25   |                            |
 | 2   | 3x15  | 20   |                            |
-| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 3   | 4x15  | 20   | stesso carico sett 1-2     |
 | 4   | 4x15  |      | stesso carico sett 1-2     |
 | 5   | 3x12  |      | incremento carico sett 3-4 |
 | 6   | 3x12  |      | incremento carico sett 3-4 |
@@ -68,7 +68,7 @@ Scendi, fai pausa, spingi, sali
 | --- | ----- | ---- | -------------------------- |
 | 1   | 3x15  | 100  |                            |
 | 2   | 3x15  | 90   |                            |
-| 3   | 4x15  |      | stesso carico sett 1-2     |
+| 3   | 4x15  | 70   | stesso carico sett 1-2     |
 | 4   | 4x15  |      | stesso carico sett 1-2     |
 | 5   | 3x12  |      | incremento carico sett 3-4 |
 | 6   | 3x12  |      | incremento carico sett 3-4 |
