@@ -12,7 +12,7 @@ Range cedimento consentito -1 o -2
 | 2   | 04-05 |
 | 3   | 19-05 |
 | 4   | 01-06 |
-| 5   | xx-yy |
+| 5   | 08-06 |
 | 6   | xx-yy |
 | 7   | xx-yy |
 | 8   | xx-yy |
@@ -25,7 +25,7 @@ Range cedimento consentito -1 o -2
 | 2   | 3x10  | 30   |                            |
 | 3   | 4x8   | 40   | incremento carico sett 1-2 |
 | 4   | 4x8   | 35   | incremento carico sett 1-2 |
-| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 5   | 4x10  | 30   | stesso carico sett 3-4     |
 | 6   | 4x10  |      | stesso carico sett 3-4     |
 | 7   | 5x10  |      | stesso carico sett 3-4     |
 | 8   | 5x10  |      | stesso carico sett 3-4     |
@@ -46,7 +46,7 @@ Range cedimento consentito -1 o -2
 | 2   | 3x10  | 28   |                            |
 | 3   | 4x8   | 35   | incremento carico sett 1-2 |
 | 4   | 4x8   | 32   | incremento carico sett 1-2 |
-| 5   | 4x10  |      | stesso carico sett 3-4     |
+| 5   | 4x10  | 32   | stesso carico sett 3-4     |
 | 6   | 4x10  |      | stesso carico sett 3-4     |
 | 7   | 5x10  |      | stesso carico sett 3-4     |
 | 8   | 5x10  |      | stesso carico sett 3-4     |
@@ -65,7 +65,7 @@ Range cedimento consentito -1 o -2
 | 2   | 3x15  | 12   |                            |
 | 3   | 4x15  | 12.5 | stesso carico sett 1-2     |
 | 4   | 4x15  | 12   | stesso carico sett 1-2     |
-| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 5   | 3x12  | 16   | incremento carico sett 3-4 |
 | 6   | 3x12  |      | incremento carico sett 3-4 |
 | 7   | 4x12  |      | stesso carico sett 3-4     |
 | 8   | 4x12  |      | stesso carico sett 3-4     |
@@ -85,7 +85,7 @@ Da fare su una panchetta, 0°.
 | 2   | 3x15  | 17.5 |                            |
 | 3   | 4x15  | 25   | stesso carico sett 1-2     |
 | 4   | 4x15  | 30   | stesso carico sett 1-2     |
-| 5   | 3x12  |      | incremento carico sett 3-4 |
+| 5   | 3x12  | 40   | incremento carico sett 3-4 |
 | 6   | 3x12  |      | incremento carico sett 3-4 |
 | 7   | 4x12  |      | stesso carico sett 3-4     |
 | 8   | 4x12  |      | stesso carico sett 3-4     |
