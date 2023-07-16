@@ -13,7 +13,7 @@ Range cedimento consentito -1 o -2
 | 3   | 30-05 |
 | 4   | 06-06 |
 | 5   | 17-06 |
-| 6   | xx-yy |
+| 6   | 27-06 |
 | 7   | xx-yy |
 | 8   | xx-yy |
 
@@ -26,7 +26,7 @@ Range cedimento consentito -1 o -2
 | 3   | 4x8   | 20   | incremento carico sett 1-2 |
 | 4   | 4x8   | 22.5 | incremento carico sett 1-2 |
 | 5   | 4x10  | 22.5 | stesso carico sett 3-4     |
-| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  | 20   | stesso carico sett 3-4     |
 | 7   | 5x10  |      | stesso carico sett 3-4     |
 | 8   | 5x10  |      | stesso carico sett 3-4     |
 
@@ -39,7 +39,7 @@ Range cedimento consentito -1 o -2
 | 3   | 4x8   | 20   | incremento carico sett 1-2 |
 | 4   | 4x8   | 35   | incremento carico sett 1-2 |
 | 5   | 4x10  | 35   | stesso carico sett 3-4     |
-| 6   | 4x10  |      | stesso carico sett 3-4     |
+| 6   | 4x10  | 40   | stesso carico sett 3-4     |
 | 7   | 5x10  |      | stesso carico sett 3-4     |
 | 8   | 5x10  |      | stesso carico sett 3-4     |
 
@@ -56,7 +56,7 @@ Range cedimento consentito -1 o -2
 | 3   | 4x15  | 20   | stesso carico sett 1-2     |
 | 4   | 4x15  | 30   | stesso carico sett 1-2     |
 | 5   | 3x12  | 40   | incremento carico sett 3-4 |
-| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  | 35   | incremento carico sett 3-4 |
 | 7   | 4x12  |      | stesso carico sett 3-4     |
 | 8   | 4x12  |      | stesso carico sett 3-4     |
 
@@ -71,7 +71,7 @@ Scendi, fai pausa, spingi, sali
 | 3   | 4x15  | 70   | stesso carico sett 1-2     |
 | 4   | 4x15  | 100  | stesso carico sett 1-2     |
 | 5   | 3x12  | 100  | incremento carico sett 3-4 |
-| 6   | 3x12  |      | incremento carico sett 3-4 |
+| 6   | 3x12  | 90   | incremento carico sett 3-4 |
 | 7   | 4x12  |      | stesso carico sett 3-4     |
 | 8   | 4x12  |      | stesso carico sett 3-4     |
 
