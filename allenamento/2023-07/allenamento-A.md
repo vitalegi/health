@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | #   | Data  |
 | --- | ----- |
 | 1   | 11-07 |
-| 2   | xx-yy |
+| 2   | 19-07 |
 | 3   | xx-yy |
 | 4   | xx-yy |
 | 5   | xx-yy |
@@ -27,7 +27,7 @@ Range cedimento consentito -1 o -2
 | #   | RDL | Rematore |
 | --- | --- | -------- |
 | 1   | 60  | 15       |
-| 2   |     |          |
+| 2   | 60  | 15       |
 | 3   |     |          |
 | 4   |     |          |
 | 5   |     |          |
@@ -52,7 +52,7 @@ Range cedimento consentito -1 o -2
 | #   | Calf | Alzate |
 | --- | ---- | ------ |
 | 1   | 12   | 16     |
-| 2   |      |        |
+| 2   | 12   | 16     |
 | 3   |      |        |
 | 4   |      |        |
 | 5   |      |        |
@@ -82,7 +82,7 @@ Range cedimento consentito -1 o -2
 | #   | Rematore | Affondi |
 | --- | -------- | ------- |
 | 1   | ?        | 0       |
-| 2   |          |         |
+| 2   | saltato  | saltato |
 | 3   |          |         |
 | 4   |          |         |
 | 5   |          |         |
