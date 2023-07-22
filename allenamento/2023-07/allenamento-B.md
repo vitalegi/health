@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | #   | Data  |
 | --- | ----- |
 | 1   | 13-07 |
-| 2   | xx-yy |
+| 2   | 22-07 |
 | 3   | xx-yy |
 | 4   | xx-yy |
 | 5   | xx-yy |
@@ -27,7 +27,7 @@ Range cedimento consentito -1 o -2
 | #   | Pulldown | Incline leg press |
 | --- | -------- | ----------------- |
 | 1   | 55       | 100               |
-| 2   |          |                   |
+| 2   | 55       | 100               |
 | 3   |          |                   |
 | 4   |          |                   |
 | 5   |          |                   |
@@ -51,7 +51,7 @@ Range cedimento consentito -1 o -2
 | #   | Leg curl | Lat machine |
 | --- | -------- | ----------- |
 | 1   | 25       | 40          |
-| 2   |          |             |
+| 2   | 25       | 45          |
 | 3   |          |             |
 | 4   |          |             |
 | 5   |          |             |
@@ -75,7 +75,7 @@ Range cedimento consentito -1 o -2
 | #   | Affondo | Hammer manubri |
 | --- | ------- | -------------- |
 | 1   | 0       | ?              |
-| 2   |         |                |
+| 2   | 16      | 16             |
 | 3   |         |                |
 | 4   |         |                |
 | 5   |         |                |
