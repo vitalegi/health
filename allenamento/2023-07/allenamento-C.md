@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | #   | Data  |
 | --- | ----- |
 | 1   | 15-07 |
-| 2   | xx-yy |
+| 2   | 25-07 |
 | 3   | xx-yy |
 | 4   | xx-yy |
 | 5   | xx-yy |
@@ -27,7 +27,7 @@ Range cedimento consentito -1 o -2
 | #   | Hack squat | Distensioni |
 | --- | ---------- | ----------- |
 | 1   | 0          | 20          |
-| 2   |            |             |
+| 2   | 0 (+)      | 20 (+)      |
 | 3   |            |             |
 | 4   |            |             |
 | 5   |            |             |
@@ -58,7 +58,7 @@ Range cedimento consentito -1 o -2
 | #   | Croci | Goblet squat |
 | --- | ----- | ------------ |
 | 1   | 15    | 0            |
-| 2   |       |              |
+| 2   | 16    | 8            |
 | 3   |       |              |
 | 4   |       |              |
 | 5   |       |              |
@@ -89,16 +89,16 @@ Range cedimento consentito -1 o -2
 - Leg Extension: 8 RM
 - Pushdown con corda: 8 RM
 
-| #   | Leg Extension | Pushdown con corda |
-| --- | ------------- | ------------------ |
-| 1   | 45            | 10-15              |
-| 2   |               |                    |
-| 3   |               |                    |
-| 4   |               |                    |
-| 5   |               |                    |
-| 6   |               |                    |
-| 7   |               |                    |
-| 8   |               |                    |
+| #   | Leg Ext | Pushdown corda |
+| --- | ------- | -------------- |
+| 1   | 45      | 10-15          |
+| 2   | 45      | 15             |
+| 3   |         |                |
+| 4   |         |                |
+| 5   |         |                |
+| 6   |         |                |
+| 7   |         |                |
+| 8   |         |                |
 
 ### Leg Extension
 
