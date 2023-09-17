@@ -12,6 +12,7 @@ Range cedimento consentito -1 o -2
 | 2   | 19-07 |
 | 3   | 28-07 |
 | 4   | 13-08 |
+| 3   | 05-09 |
 | 5   | xx-yy |
 | 6   | xx-yy |
 | 7   | xx-yy |
@@ -30,6 +31,7 @@ Range cedimento consentito -1 o -2
 | 2   | 60  | 15       |
 | 3   | 60  | 15       |
 | 4   | 60  | 10       |
+| 3   | 40  | 5        |
 | 5   |     |          |
 | 6   |     |          |
 | 7   |     |          |
@@ -55,6 +57,7 @@ Range cedimento consentito -1 o -2
 | 2   | 12   | 16     |
 | 3   | 12   | 16     |
 | 4   | 12   | 16     |
+| 3   | 12   | 12     |
 | 5   |      |        |
 | 6   |      |        |
 | 7   |      |        |
@@ -85,6 +88,7 @@ Range cedimento consentito -1 o -2
 | 2   | saltato  | saltato |
 | 3   | 32       | 32      |
 | 4   | 32       | 32      |
+| 3   | 28       | 28      |
 | 5   |          |         |
 | 6   |          |         |
 | 7   |          |         |
