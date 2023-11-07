@@ -18,6 +18,28 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
+            text: "2023-11",
+            collapsed: false,
+            items: [
+              {
+                text: "Scheda A",
+                link: "/allenamento/2023-11/allenamento-A",
+              },
+              {
+                text: "Scheda B",
+                link: "/allenamento/2023-11/allenamento-B",
+              },
+              {
+                text: "Stretching",
+                link: "/allenamento/2023-11/stretching/",
+              },
+              {
+                text: "Esercizi a casa",
+                link: "/allenamento/2023-11/esercizi-a-casa/",
+              },
+            ],
+          },
+          {
             text: "2023-07",
             collapsed: false,
             items: [
@@ -247,6 +269,24 @@ export default defineConfig({
       {
         text: "Dieta",
         items: [
+          {
+            text: "2023-11",
+            collapsed: false,
+            items: [
+              {
+                text: "Info",
+                link: "/dieta/2023-11/info",
+              },
+              {
+                text: "Colazione/Spuntino",
+                link: "/dieta/2023-11/colazione-spuntino",
+              },
+              {
+                text: "Pranzo/Cena",
+                link: "/dieta/2023-11/pranzo-cena",
+              },
+            ],
+          },
           {
             text: "2023-07",
             collapsed: false,
