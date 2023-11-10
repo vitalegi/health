@@ -8,93 +8,142 @@ Range cedimento consentito -1 o -2
 
 | #   | Data  |
 | --- | ----- |
-| 1   | 13-07 |
-| 2   | 22-07 |
-| 3   | 01-08 |
-| 3   | 07-09 |
-| 4   | 21-09 |
-| 5   | xx-yy |
-| 6   | xx-yy |
-| 7   | xx-yy |
-| 8   | xx-yy |
+| 1   | 02-11 |
+| 2   |       |
+| 3   |       |
+| 4   |       |
+| 5   |       |
+| 6   |       |
+| 7   |       |
+| 8   |       |
 
-## Pulldown PURE + Incline leg press PURE
+## Stacco
 
-4 serie, 1' di recupero
+| #   | 1^                | kg  | 2^          | kg  |
+| --- | ----------------- | --- | ----------- | --- |
+| 1   | TEST 10RM         | 70  | 3x12 rec 1' | 40  |
+| 2   | 3x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 3   | 3x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 4   | 4x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 5   | 4x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 6   | 5x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 7   | 5x8 10RM (1'30'') |     | 2x12 rec 1' |     |
+| 8   | TEST 10RM         |     | 3x12 rec 1' |     |
 
-- Pulldown: 12/15 RM
-- Incline leg press: 12/15 RM
+### Test 1
 
-| #   | Pulldown | Incline leg press |
-| --- | -------- | ----------------- |
-| 1   | 55       | 100               |
-| 2   | 55       | 100               |
-| 3   | 50       | 80                |
-| 3   | 40       | 70                |
-| 4   | 42.5     | 80                |
-| 5   |          |                   |
-| 6   |          |                   |
-| 7   |          |                   |
-| 8   |          |                   |
+1. 60kg 20RM
+2. 80kg 6RM
+3. 70kg 10RM
 
-- cerca incremento del carico
+nota: il peso include la barra
 
-### Pulldown PURE
+## RDL manubri
 
-### Incline Leg Press PURE
+Serie: 5 x 12-10-8-6-12, 1'30'' recupero
 
-## Leg curl 3'' isometria + Lat machine
+| #   | 12  | 10  | 8   | 6   | 12  |
+| --- | --- | --- | --- | --- | --- |
+| 1   | 30  | 35  | 40  | 45  | 30  |
+| 2   |     |     |     |     |     |
+| 3   |     |     |     |     |     |
+| 4   |     |     |     |     |     |
+| 5   |     |     |     |     |     |
+| 6   |     |     |     |     |     |
+| 7   |     |     |     |     |     |
+| 8   |     |     |     |     |     |
 
-4 serie, 1' di recupero
+## Lat machine triangolo
 
-- Leg curl: 10 RM
-- Lat machine: 10 RM
+Serie: 5 x 12-10-8-6-12, 1'30'' recupero
 
-| #   | Leg curl | Lat machine |
-| --- | -------- | ----------- |
-| 1   | 25       | 40          |
-| 2   | 25       | 45          |
-| 3   | 25       | 40          |
-| 3   | 22.5     | 35          |
-| 4   | 25       | 40          |
-| 5   |          |             |
-| 6   |          |             |
-| 7   |          |             |
-| 8   |          |             |
+| #   | 12  | 10  | 8   | 6   | 12  |
+| --- | --- | --- | --- | --- | --- |
+| 1   | 35  | 35  | 40  | 40  | 30  |
+| 2   |     |     |     |     |     |
+| 3   |     |     |     |     |     |
+| 4   |     |     |     |     |     |
+| 5   |     |     |     |     |     |
+| 6   |     |     |     |     |     |
+| 7   |     |     |     |     |     |
+| 8   |     |     |     |     |     |
 
-### Leg curl
+## Pulldown con trazy bar
 
-### Lat machine
+Recupero 1'-1'30''.
 
-- prendi la barra sulla piegatura, non usare presa larga
+- Braccio tutto disteso
 
-## Affondo statico + Hammer manubri
+| #   | serie        | peso |
+| --- | ------------ | ---- |
+| 1   | 4x10 4'' iso | 12.5 |
+| 2   | 4x12 4'' iso |      |
+| 3   | 4x12 4'' iso |      |
+| 4   | 5x10 5'' iso |      |
+| 5   | 5x10 5'' iso |      |
+| 6   | 5x12 5'' iso |      |
+| 7   | 5x12 5'' iso |      |
+| 8   | 6x10 6'' iso |      |
 
-3 serie, 1' di recupero
+## Rear delt fly
 
-- Affondo statico: 8 RM
-- Hammer manubri: 8 RM
+Recupero: 1'
 
-| #   | Affondo | Hammer manubri |
-| --- | ------- | -------------- |
-| 1   | 0       | ?              |
-| 2   | 16      | 16             |
-| 3   | 16      | 16             |
-| 3   | 12      | 12             |
-| 4   | 16      | 16             |
-| 5   |         |                |
-| 6   |         |                |
-| 7   |         |                |
-| 8   |         |                |
+- in piedi, accucciato in avanti
+- le braccia vanno lateralmente in avanti
 
-### Affondo statico
 
-### Hammer manubri
+| #   | serie | peso |
+| --- | ----- | ---- |
+| 1   | 3x20  | 4    |
+| 2   | 3x20  |      |
+| 3   | 3x20  |      |
+| 4   | 4x20  |      |
+| 5   | 4x20  |      |
+| 6   | 4x20  |      |
+| 7   | 4x20  |      |
+| 8   | 5x20  |      |
 
-## Circuito Mountain Climber + Mezzo Burpees + Spider plank x 3
+## Hammer curl + floor french press
 
-- Mountain Climber: 30''
+6xHammer curl + 1' + 6xfloor french press + 1'
+
+### Hammer curl
+
+- Distendi tutto il braccio
+- Quando sali col peso, non puntare al petto, punta all'esterno
+
+### Floor french press
+
+- gomiti stretti
+
+![](floor-french-press.jpg)
+
+| #   | serie | curl | french press | nota           |
+| --- | ----- | ---- | ------------ | -------------- |
+| 1   | 3     | 20   | 7.5          |                |
+| 2   | 3     |      |              | aumenta carico |
+| 3   | 3     |      |              |                |
+| 4   | 4     |      |              |                |
+| 5   | 4     |      |              |                |
+| 6   | 4     |      |              | aumenta carico |
+| 7   | 4     |      |              |                |
+| 8   | 5     |      |              |                |
+
+## Core
+
+3 giri con 1' recupero
+
+### Reverse crunch su panca x max
+
+### Crunch su panca x max
+
+### Plank x max
+
+## Circuito metabolico (3-4 giri)
+
 - Mezzo Burpees: 30''
+- Mountain Climber: 30''
 - Spider Plank: max
 
 ### Mezzo Burpees
@@ -112,22 +161,3 @@ Range cedimento consentito -1 o -2
 - Apri gamba e anca e sali con la gamba
 - Nella salita, la gamba è parallela al terreno
 - Se l'esercizio lo sbagli, la posizione sarà più simile a quella del Mountain Climber.
-
-## 3 esercizi di addome a scelta a circuito
-
-3 giri con 1' di recupero
-
-### Russian Twist
-
-### Crunch
-
-### Reverse Crunch
-
-- disteso a pancia in su
-- mani sotto il culo
-- gambe distese, circa 30°
-- sali con le gambe e scendi
-
-## Camminata in salita
-
-5-6km/h, 15%, 30'
