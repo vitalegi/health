@@ -41,7 +41,7 @@ export default defineConfig({
           },
           {
             text: "2023-07",
-            collapsed: false,
+            collapsed: true,
             items: [
               {
                 text: "Scheda A",
@@ -289,7 +289,7 @@ export default defineConfig({
           },
           {
             text: "2023-07",
-            collapsed: false,
+            collapsed: true,
             items: [
               {
                 text: "Info",
