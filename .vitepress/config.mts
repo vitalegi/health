@@ -18,50 +18,24 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
-            text: "2023-11",
+            text: "2024-01",
             collapsed: false,
             items: [
               {
                 text: "Scheda A",
-                link: "/allenamento/2023-11/allenamento-A",
+                link: "/allenamento/2024-01/allenamento-A",
               },
               {
                 text: "Scheda B",
-                link: "/allenamento/2023-11/allenamento-B",
+                link: "/allenamento/2024-01/allenamento-B",
               },
               {
                 text: "Stretching",
-                link: "/allenamento/2023-11/stretching/",
+                link: "/allenamento/2024-01/stretching/",
               },
               {
                 text: "Esercizi a casa",
-                link: "/allenamento/2023-11/esercizi-a-casa/",
-              },
-            ],
-          },
-          {
-            text: "2023-07",
-            collapsed: true,
-            items: [
-              {
-                text: "Scheda A",
-                link: "/allenamento/2023-07/allenamento-A",
-              },
-              {
-                text: "Scheda B",
-                link: "/allenamento/2023-07/allenamento-B",
-              },
-              {
-                text: "Scheda C",
-                link: "/allenamento/2023-07/allenamento-C",
-              },
-              {
-                text: "Stretching",
-                link: "/allenamento/2023-07/stretching/",
-              },
-              {
-                text: "Esercizi a casa",
-                link: "/allenamento/2023-07/esercizi-a-casa/",
+                link: "/allenamento/2024-01/esercizi-a-casa/",
               },
             ],
           },
@@ -69,6 +43,54 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2023-11",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2023-11/allenamento-A",
+                  },
+                  {
+                    text: "Scheda B",
+                    link: "/allenamento/2023-11/allenamento-B",
+                  },
+                  {
+                    text: "Stretching",
+                    link: "/allenamento/2023-11/stretching/",
+                  },
+                  {
+                    text: "Esercizi a casa",
+                    link: "/allenamento/2023-11/esercizi-a-casa/",
+                  },
+                ],
+              },
+              {
+                text: "2023-07",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2023-07/allenamento-A",
+                  },
+                  {
+                    text: "Scheda B",
+                    link: "/allenamento/2023-07/allenamento-B",
+                  },
+                  {
+                    text: "Scheda C",
+                    link: "/allenamento/2023-07/allenamento-C",
+                  },
+                  {
+                    text: "Stretching",
+                    link: "/allenamento/2023-07/stretching/",
+                  },
+                  {
+                    text: "Esercizi a casa",
+                    link: "/allenamento/2023-07/esercizi-a-casa/",
+                  },
+                ],
+              },
               {
                 text: "2023-04",
                 collapsed: true,
@@ -270,62 +292,81 @@ export default defineConfig({
         text: "Dieta",
         items: [
           {
-            text: "2023-11",
+            text: "2024-01",
             collapsed: false,
             items: [
               {
                 text: "Info",
-                link: "/dieta/2023-11/info",
+                link: "/dieta/2024-01/info",
               },
               {
                 text: "Colazione/Spuntino",
-                link: "/dieta/2023-11/colazione-spuntino",
+                link: "/dieta/2024-01/colazione-spuntino",
               },
               {
                 text: "Pranzo/Cena",
-                link: "/dieta/2023-11/pranzo-cena",
-              },
-            ],
-          },
-          {
-            text: "2023-07",
-            collapsed: true,
-            items: [
-              {
-                text: "Info",
-                link: "/dieta/2023-07/info",
-              },
-              {
-                text: "Colazione/Spuntino",
-                link: "/dieta/2023-07/colazione-spuntino",
-              },
-              {
-                text: "Pranzo/Cena",
-                link: "/dieta/2023-07/pranzo-cena",
+                link: "/dieta/2024-01/pranzo-cena",
               },
             ],
           },
           {
             text: "Archivio",
             collapsed: true,
-            items: [{
-              text: "2023-04",
-              collapsed: true,
-              items: [
-                {
-                  text: "Info",
-                  link: "/dieta/2023-04/info",
-                },
-                {
-                  text: "Colazione/Spuntino",
-                  link: "/dieta/2023-04/colazione-spuntino",
-                },
-                {
-                  text: "Pranzo/Cena",
-                  link: "/dieta/2023-04/pranzo-cena",
-                },
-              ],
-            },
+            items: [
+              {
+                text: "2023-11",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2023-11/info",
+                  },
+                  {
+                    text: "Colazione/Spuntino",
+                    link: "/dieta/2023-11/colazione-spuntino",
+                  },
+                  {
+                    text: "Pranzo/Cena",
+                    link: "/dieta/2023-11/pranzo-cena",
+                  },
+                ],
+              },
+              {
+                text: "2023-07",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2023-07/info",
+                  },
+                  {
+                    text: "Colazione/Spuntino",
+                    link: "/dieta/2023-07/colazione-spuntino",
+                  },
+                  {
+                    text: "Pranzo/Cena",
+                    link: "/dieta/2023-07/pranzo-cena",
+                  },
+                ],
+              },
+              {
+                text: "2023-04",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2023-04/info",
+                  },
+                  {
+                    text: "Colazione/Spuntino",
+                    link: "/dieta/2023-04/colazione-spuntino",
+                  },
+                  {
+                    text: "Pranzo/Cena",
+                    link: "/dieta/2023-04/pranzo-cena",
+                  },
+                ],
+              },
               {
                 text: "2023-01",
                 collapsed: true,
@@ -378,19 +419,19 @@ export default defineConfig({
         text: "About",
         link: "/about/",
       },
-    ],  
+    ],
     lastUpdatedText: "Modificato il",
     editLink: {
-      pattern: 'https://github.com/vitalegi/health/edit/master/:path',
-      text: 'Edit this page on GitHub'
-    }, 
+      pattern: "https://github.com/vitalegi/health/edit/master/:path",
+      text: "Edit this page on GitHub",
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/vitalegi/health" },
     ],
     docFooter: {
-      prev: 'Pagina precedente',
-      next: 'Pagina successiva'
-    }
+      prev: "Pagina precedente",
+      next: "Pagina successiva",
+    },
   },
   lastUpdated: true,
   srcExclude: ["README.md"],

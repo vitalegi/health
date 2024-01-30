@@ -13,7 +13,10 @@ const members = [
   {
     avatar: '/princimicio.jpg',
     name: 'Pinco Princi Puccio Micio',
-    title: 'Team Leader'
+    title: 'Team Leader',
+    links: [
+      { icon: 'instagram', link: 'https://www.instagram.com/orione.russianblue' },
+    ]
   },
   {
     avatar: 'https://avatars.githubusercontent.com/u/6169537',

@@ -9,13 +9,13 @@ hero:
 
 features:
   - title: Scheda A
-    link: /allenamento/2023-11/allenamento-A
+    link: /allenamento/2024-01/allenamento-A
   - title: Scheda B
-    link: /allenamento/2023-11/allenamento-B
+    link: /allenamento/2024-01/allenamento-B
   - title: Colazione/Spuntino
-    link: /dieta/2023-11/colazione-spuntino
+    link: /dieta/2024-01/colazione-spuntino
   - title: Pranzo/Cena
-    link: /dieta/2023-11/pranzo-cena
+    link: /dieta/2024-01/pranzo-cena
   - title: Sessioni
     link: /sessioni.md
 ---
