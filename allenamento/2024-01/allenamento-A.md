@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | #   | Data  |
 | --- | ----- |
 | 1   | 23-01 |
-| 2   |       |
+| 2   | 30-01 |
 | 3   |       |
 | 4   |       |
 | 5   |       |
@@ -40,7 +40,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   |     | Kg   |
 | --- | --- | ---- |
 | 1   | 3x3 | 0-10 |
-| 2   | 3x4 |      |
+| 2   | 3x4 | 0-10 |
 | 3   | 3x4 |      |
 | 4   | 4x4 |      |
 | 5   | 4x4 |      |
@@ -53,7 +53,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   |                      | Kg  |
 | --- | -------------------- | --- |
 | 1   | 3x6 10RM, 1' rec     | 35  |
-| 2   | 4x6 10RM, 1' rec     |     |
+| 2   | 4x6 10RM, 1' rec     | 35  |
 | 3   | 4x6 10RM, 1' rec     |     |
 | 4   | 3x8 10RM, 1'30'' rec |     |
 | 5   | 3x8 10RM, 1'30'' rec |     |
@@ -68,7 +68,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   | Kg  |
 | --- | --- |
 | 1   | 16  |
-| 2   |     |
+| 2   | 16  |
 | 3   |     |
 | 4   |     |
 | 5   |     |
@@ -83,7 +83,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   |                      | Kg   |
 | --- | -------------------- | ---- |
 | 1   | 3x6 10RM, 1' rec     | 22.5 |
-| 2   | 4x6 10RM, 1' rec     |      |
+| 2   | 4x6 10RM, 1' rec     | 22.5 |
 | 3   | 4x6 10RM, 1' rec     |      |
 | 4   | 3x8 10RM, 1'30'' rec |      |
 | 5   | 3x8 10RM, 1'30'' rec |      |
@@ -103,7 +103,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   | Serie | French | Rec  | Pushdown | Rec  |
 | --- | ----- | ------ | ---- | -------- | ---- |
 | 1   | 3     | 12     | 1'   | 10       | 1'   |
-| 2   | 3     |        | 45'' |          | 1'   |
+| 2   | 3     | 12     | 45'' | 10       | 1'   |
 | 3   | 3     |        | 45'' |          | 1'   |
 | 4   | 4     |        | 30'' |          | 1'   |
 | 5   | 4     |        | 30'' |          | 1'   |
