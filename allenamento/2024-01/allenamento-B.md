@@ -11,7 +11,7 @@ Range cedimento consentito -1 o -2
 | 1   | 25-01 |
 | 2   | 01-02 |
 | 3   | 12-02 |
-| 4   |       |
+| 4   | 15-02 |
 | 5   |       |
 | 6   |       |
 | 7   |       |
@@ -22,9 +22,9 @@ Range cedimento consentito -1 o -2
 | #   | 1^            | kg  | 2^               | kg  |
 | --- | ------------- | --- | ---------------- | --- |
 | 1   | TEST 5RM (3') | 100 | 3x8 10RM (1'30') |     |
-| 2   | 6x3 5RM (3')  | 100 | 3x8 10RM (1'30') |  60 |
-| 3   | 6x3 5RM (3')  | 100 | 3x8 10RM (1'30') |  60 |
-| 4   | 5x4 5RM (3')  |     | 3x8 10RM (1'30') |     |
+| 2   | 6x3 5RM (3')  | 100 | 3x8 10RM (1'30') | 60  |
+| 3   | 6x3 5RM (3')  | 100 | 3x8 10RM (1'30') | 60  |
+| 4   | 5x4 5RM (3')  | 100 | 3x8 10RM (1'30') | 60  |
 | 5   | 5x4 5RM (3')  |     | 3x8 10RM (1'30') |     |
 | 6   | 5x5 5RM (3')  |     | 3x8 10RM (1'30') |     |
 | 7   | 5x5 5RM (3')  |     | 3x8 10RM (1'30') |     |
@@ -46,7 +46,7 @@ Range cedimento consentito -1 o -2
 | 1   | 3x6 10RM, 1' rec     | 35  |
 | 2   | 4x6 10RM, 1' rec     | 35  |
 | 3   | 4x6 10RM, 1' rec     | 40  |
-| 4   | 3x8 10RM, 1'30'' rec |     |
+| 4   | 3x8 10RM, 1'30'' rec | 35  |
 | 5   | 3x8 10RM, 1'30'' rec |     |
 | 6   | 3x10 12RM, 1' rec    |     |
 | 7   | 3x10 12RM, 1' rec    |     |
@@ -56,16 +56,21 @@ Range cedimento consentito -1 o -2
 
 3x12, 15RM, 1' rec
 
-| #   | Kg  |
-| --- | --- |
-| 1   | 48  |
-| 2   | 48  |
+- peso su avanpiede
+- butta indietro il culo
+- non piegare in avanti la schiena
+- tieni sguardo verso il pavimento
+
+| #   | Kg    |
+| --- | ----- |
+| 1   | 48    |
+| 2   | 48    |
 | 3   | 52-48 |
-| 4   |     |
-| 5   |     |
-| 6   |     |
-| 7   |     |
-| 8   |     |
+| 4   | 50    |
+| 5   |       |
+| 6   |       |
+| 7   |       |
+| 8   |       |
 
 ## Rematore con bilanciere, 4'' concentrica
 
@@ -74,16 +79,16 @@ Range cedimento consentito -1 o -2
 - Peso sull'avanpiede
 - Il movimento del bilanciere è un minimo obliquo, non verticale rispetto al terreno
 
-| #   |                      | Kg  |
-| --- | -------------------- | --- |
-| 1   | 3x6 10RM, 1' rec     | 10  |
-| 2   | 4x6 10RM, 1' rec     | 10  |
-| 3   | 4x6 10RM, 1' rec     | 10  |
-| 4   | 3x8 10RM, 1'30'' rec |     |
-| 5   | 3x8 10RM, 1'30'' rec |     |
-| 6   | 3x10 12RM, 1' rec    |     |
-| 7   | 3x10 12RM, 1' rec    |     |
-| 8   | 4x8 10RM, 1'30'' rec |     |
+| #   |                   | Kg  |
+| --- | ----------------- | --- |
+| 1   | 3x6 10RM, 1' rec  | 10  |
+| 2   | 4x6 10RM, 1' rec  | 10  |
+| 3   | 4x6 10RM, 1' rec  | 10  |
+| 4   | 3x8 10RM, 2' rec  | 10  |
+| 5   | 3x8 10RM, 2' rec  |     |
+| 6   | 3x10 12RM, 2' rec |     |
+| 7   | 3x10 12RM, 2' rec |     |
+| 8   | 4x8 10RM, 2' rec  |     |
 
 ## 8 x Hammer curl + 15 x Curl cavo basso 2'' iso
 
@@ -101,7 +106,7 @@ Range cedimento consentito -1 o -2
 | 1   | 3     | 16        | 1'   | 5         | 1'   |
 | 2   | 3     | 16        | 45'' | 5         | 1'   |
 | 3   | 3     | 16        | 45'' | 5         | 1'   |
-| 4   | 4     |           | 30'' |           | 1'   |
+| 4   | 4     | 20        | 30'' | 7.5-5     | 1'   |
 | 5   | 4     |           | 30'' |           | 1'   |
 | 6   | 4     |           | 30'' |           | 45'' |
 | 7   | 4     |           | 30'' |           | 45'' |
@@ -118,6 +123,13 @@ Range cedimento consentito -1 o -2
 ### Crunch su panca x max
 
 ### Plank x max
+
+- parti accucciato a quattro zampe
+- ti butti in avanti e distendi completamente la gamba
+- gomito più indietro alla gamba
+- il bacino non è piegato
+- gamba distesa
+- stringi chiappe e addome
 
 ## Circuito metabolico
 

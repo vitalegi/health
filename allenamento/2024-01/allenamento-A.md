@@ -10,8 +10,8 @@ Range cedimento consentito -1 o -2
 | --- | ----- |
 | 1   | 23-01 |
 | 2   | 30-01 |
-| 3   |       |
-| 4   |       |
+| 3   | 06-02 |
+| 4   | 12-02 |
 | 5   |       |
 | 6   |       |
 | 7   |       |
@@ -36,41 +36,47 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 - butta indietro il bacino quando scendi
 - il peso è sempre sull'avanpiede
 - quando sali, butta vanti il bacino
+- concentrati sul tenere la schiena dritta. Prima di partire raddrizzati.
+- polsi sempre in posizione
 
-| #   |     | Kg   |
-| --- | --- | ---- |
-| 1   | 3x3 | 0-10 |
-| 2   | 3x4 | 0-10 |
-| 3   | 3x4 |      |
-| 4   | 4x4 |      |
-| 5   | 4x4 |      |
-| 6   | 5x4 |      |
-| 7   | 5x4 |      |
-| 8   | 5x5 |      |
+| #   |     | Kg      |
+| --- | --- | ------- |
+| 1   | 3x3 | 0-10    |
+| 2   | 3x4 | 0-10    |
+| 3   | 3x4 | 10-12.5 |
+| 4   | 4x4 | 10-12.5 |
+| 5   | 4x4 |         |
+| 6   | 5x4 |         |
+| 7   | 5x4 |         |
+| 8   | 5x5 |         |
 
 ## Chest press, 4'' in concentrica (spinta)
 
-| #   |                      | Kg  |
-| --- | -------------------- | --- |
-| 1   | 3x6 10RM, 1' rec     | 35  |
-| 2   | 4x6 10RM, 1' rec     | 35  |
-| 3   | 4x6 10RM, 1' rec     |     |
-| 4   | 3x8 10RM, 1'30'' rec |     |
-| 5   | 3x8 10RM, 1'30'' rec |     |
-| 6   | 3x10 12RM, 1' rec    |     |
-| 7   | 3x10 12RM, 1' rec    |     |
-| 8   | 4x8 10RM, 1'30'' rec |     |
+| #   |                      | Kg   |
+| --- | -------------------- | ---- |
+| 1   | 3x6 10RM, 1' rec     | 35   |
+| 2   | 4x6 10RM, 1' rec     | 35   |
+| 3   | 4x6 10RM, 1' rec     | 37.5 |
+| 4   | 3x8 10RM, 1'30'' rec | 40   |
+| 5   | 3x8 10RM, 1'30'' rec |      |
+| 6   | 3x10 12RM, 1' rec    |      |
+| 7   | 3x10 12RM, 1' rec    |      |
+| 8   | 4x8 10RM, 1'30'' rec |      |
 
 ## Distensioni manubri panca 60°
 
 3x12, 15RM, 1' rec
 
+- Gomito a 20° di apertura (più stretto rispetto al solito)
+- Gomito in linea col polso
+- Avambraccio sale perpendicolare al terreno
+
 | #   | Kg  |
 | --- | --- |
 | 1   | 16  |
 | 2   | 16  |
-| 3   |     |
-| 4   |     |
+| 3   | 16  |
+| 4   | 16  |
 | 5   |     |
 | 6   |     |
 | 7   |     |
@@ -84,8 +90,8 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | --- | -------------------- | ---- |
 | 1   | 3x6 10RM, 1' rec     | 22.5 |
 | 2   | 4x6 10RM, 1' rec     | 22.5 |
-| 3   | 4x6 10RM, 1' rec     |      |
-| 4   | 3x8 10RM, 1'30'' rec |      |
+| 3   | 4x6 10RM, 1' rec     | 25   |
+| 4   | 3x8 10RM, 1'30'' rec | 30   |
 | 5   | 3x8 10RM, 1'30'' rec |      |
 | 6   | 3x10 12RM, 1' rec    |      |
 | 7   | 3x10 12RM, 1' rec    |      |
@@ -104,8 +110,8 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | --- | ----- | ------ | ---- | -------- | ---- |
 | 1   | 3     | 12     | 1'   | 10       | 1'   |
 | 2   | 3     | 12     | 45'' | 10       | 1'   |
-| 3   | 3     |        | 45'' |          | 1'   |
-| 4   | 4     |        | 30'' |          | 1'   |
+| 3   | 3     | 12     | 45'' | 10       | 1'   |
+| 4   | 4     | 12     | 30'' | 10       | 1'   |
 | 5   | 4     |        | 30'' |          | 1'   |
 | 6   | 4     |        | 30'' |          | 45'' |
 | 7   | 4     |        | 30'' |          | 45'' |
