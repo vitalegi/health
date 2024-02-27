@@ -12,7 +12,7 @@ Range cedimento consentito -1 o -2
 | 2   | 30-01 |
 | 3   | 06-02 |
 | 4   | 12-02 |
-| 5   |       |
+| 5   | 20-02 |
 | 6   |       |
 | 7   |       |
 | 8   |       |
@@ -45,7 +45,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 2   | 3x4 | 0-10    |
 | 3   | 3x4 | 10-12.5 |
 | 4   | 4x4 | 10-12.5 |
-| 5   | 4x4 |         |
+| 5   | 4x4 | 10      |
 | 6   | 5x4 |         |
 | 7   | 5x4 |         |
 | 8   | 5x5 |         |
@@ -58,7 +58,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 2   | 4x6 10RM, 1' rec     | 35   |
 | 3   | 4x6 10RM, 1' rec     | 37.5 |
 | 4   | 3x8 10RM, 1'30'' rec | 40   |
-| 5   | 3x8 10RM, 1'30'' rec |      |
+| 5   | 3x8 10RM, 1'30'' rec | 35   |
 | 6   | 3x10 12RM, 1' rec    |      |
 | 7   | 3x10 12RM, 1' rec    |      |
 | 8   | 4x8 10RM, 1'30'' rec |      |
@@ -77,7 +77,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 2   | 16  |
 | 3   | 16  |
 | 4   | 16  |
-| 5   |     |
+| 5   | 16  |
 | 6   |     |
 | 7   |     |
 | 8   |     |
@@ -92,7 +92,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 2   | 4x6 10RM, 1' rec     | 22.5 |
 | 3   | 4x6 10RM, 1' rec     | 25   |
 | 4   | 3x8 10RM, 1'30'' rec | 30   |
-| 5   | 3x8 10RM, 1'30'' rec |      |
+| 5   | 3x8 10RM, 1'30'' rec | 35   |
 | 6   | 3x10 12RM, 1' rec    |      |
 | 7   | 3x10 12RM, 1' rec    |      |
 | 8   | 4x8 10RM, 1'30'' rec |      |
@@ -112,7 +112,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 2   | 3     | 12     | 45'' | 10       | 1'   |
 | 3   | 3     | 12     | 45'' | 10       | 1'   |
 | 4   | 4     | 12     | 30'' | 10       | 1'   |
-| 5   | 4     |        | 30'' |          | 1'   |
+| 5   | 4     | 12     | 30'' | 10       | 1'   |
 | 6   | 4     |        | 30'' |          | 45'' |
 | 7   | 4     |        | 30'' |          | 45'' |
 | 8   | 4     |        | 30'' |          | 30'' |
