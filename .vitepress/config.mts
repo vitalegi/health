@@ -18,24 +18,16 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
-            text: "2024-01",
+            text: "2024-03",
             collapsed: false,
             items: [
               {
                 text: "Scheda A",
-                link: "/allenamento/2024-01/allenamento-A",
+                link: "/allenamento/2024-03/allenamento-A",
               },
               {
                 text: "Scheda B",
-                link: "/allenamento/2024-01/allenamento-B",
-              },
-              {
-                text: "Stretching",
-                link: "/allenamento/2024-01/stretching/",
-              },
-              {
-                text: "Esercizi a casa",
-                link: "/allenamento/2024-01/esercizi-a-casa/",
+                link: "/allenamento/2024-03/allenamento-B",
               },
             ],
           },
@@ -43,6 +35,28 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2024-01",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2024-01/allenamento-A",
+                  },
+                  {
+                    text: "Scheda B",
+                    link: "/allenamento/2024-01/allenamento-B",
+                  },
+                  {
+                    text: "Stretching",
+                    link: "/allenamento/2024-01/stretching/",
+                  },
+                  {
+                    text: "Esercizi a casa",
+                    link: "/allenamento/2024-01/esercizi-a-casa/",
+                  },
+                ],
+              },
               {
                 text: "2023-11",
                 collapsed: true,
@@ -292,20 +306,20 @@ export default defineConfig({
         text: "Dieta",
         items: [
           {
-            text: "2024-01",
+            text: "2024-03",
             collapsed: false,
             items: [
               {
                 text: "Info",
-                link: "/dieta/2024-01/info",
+                link: "/dieta/2024-03/info",
               },
               {
                 text: "Colazione/Spuntino",
-                link: "/dieta/2024-01/colazione-spuntino",
+                link: "/dieta/2024-03/colazione-spuntino",
               },
               {
                 text: "Pranzo/Cena",
-                link: "/dieta/2024-01/pranzo-cena",
+                link: "/dieta/2024-03/pranzo-cena",
               },
             ],
           },
@@ -313,6 +327,24 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2024-01",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2024-01/info",
+                  },
+                  {
+                    text: "Colazione/Spuntino",
+                    link: "/dieta/2024-01/colazione-spuntino",
+                  },
+                  {
+                    text: "Pranzo/Cena",
+                    link: "/dieta/2024-01/pranzo-cena",
+                  },
+                ],
+              },
               {
                 text: "2023-11",
                 collapsed: true,
