@@ -15,8 +15,8 @@
 
 - Colazione: C40 - P20 - F15
 - Pranzo: C50 – P40 –F20
-- Spuntino: C20 - P20 – F15
 - Cena: C50 – P40 – F20
+- Spuntino: C20 - P20 – F15
 
 ### ON: C220 – P140 – F70 (2070kcal)
 

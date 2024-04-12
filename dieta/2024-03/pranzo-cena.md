@@ -89,3 +89,20 @@ CONDIMENTO: passata di pomodoro, pesto o altri sughi a piacere
 - 400g di molluschi (parte edibile)
 - 270g di crostacei (gamberetti)
 - 400g di polpo o totani
+
+Frequenza consigliata per salumi: massimo 2 v./sett.
+
+Frequenza consigliata per carne rossa: massimo 2 v./sett.
+
+Frequenza consigliata per formaggi magri: massimo 2 v./sett.
+
+**Scegline 1**
+
+- 15g di olio extravergine d’oliva a crudo (1 cucchiaio)
+- 45g di avocado
+
+N.B.: DIMEZZA quando usi carne rossa, salmone, mozzarella di bufala, uova, o pesto o altri condimenti ad elevato tenore lipidico
+
+**Scegline 1**
+
+- 200g di verdura di stagione
