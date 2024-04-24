@@ -314,12 +314,24 @@ export default defineConfig({
                 link: "/dieta/2024-03/info",
               },
               {
-                text: "Colazione/Spuntino",
-                link: "/dieta/2024-03/colazione-spuntino",
+                text: "Colazione (C40-P20-F15)",
+                link: "/dieta/2024-03/colazione",
               },
               {
-                text: "Pranzo/Cena",
-                link: "/dieta/2024-03/pranzo-cena",
+                text: "Spuntino ON (C40-P20-F15)",
+                link: "/dieta/2024-03/spuntino-on",
+              },
+              {
+                text: "Spuntino OFF (C20-P20-F15)",
+                link: "/dieta/2024-03/spuntino-off",
+              },
+              {
+                text: "Pasti ON (C70–P50–F20)",
+                link: "/dieta/2024-03/pranzo-cena-on",
+              },
+              {
+                text: "Pasti OFF (C50–P40–F20)",
+                link: "/dieta/2024-03/pranzo-cena-off",
               },
             ],
           },
