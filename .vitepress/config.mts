@@ -456,10 +456,6 @@ export default defineConfig({
         ],
       },
       {
-        text: "Pacchetti",
-        link: "/sessioni.md",
-      },
-      {
         text: "About",
         link: "/about/",
       },
