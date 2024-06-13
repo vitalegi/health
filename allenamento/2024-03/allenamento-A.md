@@ -14,7 +14,7 @@ Range cedimento consentito -1 o -2
 | 4   | 14-05 |
 | 5   | 21-05 |
 | 6   | 29-05 |
-| 7   |       |
+| 7   | 11-06 |
 | 8   |       |
 
 ## Squat con bilanciere, 1'30''/2' rec
@@ -46,7 +46,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 4   | 3x6 | 27.5 |                |
 | 5   | 4x6 | 35   | Aumenta carico |
 | 6   | 4x6 | 40   |                |
-| 7   | 4x6 |      | Aumenta carico |
+| 7   | 4x6 | 40   | Aumenta carico |
 | 8   | 4x6 |      |                |
 
 ## Rematore x10  + RDL x10 + Alzate laterali x10, 3 giri
@@ -59,7 +59,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 4   | 30          | 30'' | 60        | 30'' | 16     | 1'   |
 | 5   | 30          | 15'' | 64        | 15'' | 16     | 45'' |
 | 6   | 30          | 15'' | 64        | 15'' | 16     | 45'' |
-| 7   |             | 0''  |           | 0''  |        | 45'' |
+| 7   | 30          | 0''  | 60        | 0''  | 16     | 45'' |
 | 8   |             | 0''  |           | 0''  |        | 45'' |
 
 Nota: peso totale
@@ -79,7 +79,7 @@ Nota: peso totale
 | 4   | 42.5      | 30'' |      | 30'' | 20   | 1'   |
 | 5   | 42.5      | 15'' |      | 15'' | 20   | 45'' |
 | 6   | 42.5      | 15'' |      | 15'' | 20   | 45'' |
-| 7   |           | 0''  |      | 0''  |      | 45'' |
+| 7   | 42.5      | 0''  |      | 0''  | 20   | 45'' |
 | 8   |           | 0''  |      | 0''  |      | 45'' |
 
 Nota: peso totale
