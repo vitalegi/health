@@ -18,16 +18,16 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
-            text: "2024-03",
+            text: "2024-07",
             collapsed: false,
             items: [
               {
                 text: "Scheda A",
-                link: "/allenamento/2024-03/allenamento-A",
+                link: "/allenamento/2024-07/allenamento-A",
               },
               {
                 text: "Scheda B",
-                link: "/allenamento/2024-03/allenamento-B",
+                link: "/allenamento/2024-07/allenamento-B",
               },
             ],
           },
@@ -35,6 +35,20 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2024-03",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2024-03/allenamento-A",
+                  },
+                  {
+                    text: "Scheda B",
+                    link: "/allenamento/2024-03/allenamento-B",
+                  },
+                ],
+              },
               {
                 text: "2024-01",
                 collapsed: true,
@@ -306,32 +320,32 @@ export default defineConfig({
         text: "Dieta",
         items: [
           {
-            text: "2024-03",
+            text: "2024-07",
             collapsed: false,
             items: [
               {
                 text: "Info",
-                link: "/dieta/2024-03/info",
+                link: "/dieta/2024-07/info",
               },
               {
                 text: "Colazione (C40-P20-F15)",
-                link: "/dieta/2024-03/colazione",
+                link: "/dieta/2024-07/colazione",
               },
               {
                 text: "Spuntino ON (C40-P20-F15)",
-                link: "/dieta/2024-03/spuntino-on",
+                link: "/dieta/2024-07/spuntino-on",
               },
               {
                 text: "Spuntino OFF (C20-P20-F15)",
-                link: "/dieta/2024-03/spuntino-off",
+                link: "/dieta/2024-07/spuntino-off",
               },
               {
                 text: "Pasti ON (C70–P50–F20)",
-                link: "/dieta/2024-03/pranzo-cena-on",
+                link: "/dieta/2024-07/pranzo-cena-on",
               },
               {
                 text: "Pasti OFF (C50–P40–F20)",
-                link: "/dieta/2024-03/pranzo-cena-off",
+                link: "/dieta/2024-07/pranzo-cena-off",
               },
             ],
           },
@@ -339,6 +353,36 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2024-03",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2024-03/info",
+                  },
+                  {
+                    text: "Colazione (C40-P20-F15)",
+                    link: "/dieta/2024-03/colazione",
+                  },
+                  {
+                    text: "Spuntino ON (C40-P20-F15)",
+                    link: "/dieta/2024-03/spuntino-on",
+                  },
+                  {
+                    text: "Spuntino OFF (C20-P20-F15)",
+                    link: "/dieta/2024-03/spuntino-off",
+                  },
+                  {
+                    text: "Pasti ON (C70–P50–F20)",
+                    link: "/dieta/2024-03/pranzo-cena-on",
+                  },
+                  {
+                    text: "Pasti OFF (C50–P40–F20)",
+                    link: "/dieta/2024-03/pranzo-cena-off",
+                  },
+                ],
+              },
               {
                 text: "2024-01",
                 collapsed: true,
