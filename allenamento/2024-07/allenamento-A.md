@@ -9,7 +9,7 @@ Range cedimento consentito -1 o -2
 | #   | Data  |
 | --- | ----- |
 | 1   | 02-07 |
-| 2   |       |
+| 2   | 11-07 |
 | 3   |       |
 | 4   |       |
 | 5   |       |
@@ -43,7 +43,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   |     | Kg  | Note           |
 | --- | --- | --- | -------------- |
 | 1   | 3x5 | 70  |                |
-| 2   | 3x5 |     |                |
+| 2   | 3x5 | 70-60 |                |
 | 3   | 3x5 |     | Aumenta carico |
 | 4   | 3x5 |     |                |
 | 5   | 4x5 |     | Aumenta carico |
@@ -58,7 +58,7 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | #   | Giri | Lat |      | Affondo |      | Distensioni |      |
 | --- | ---- | --- | ---- | ------- | ---- | ----------- | ---- |
 | 1   | 3    | 45  | 45'' | 32      | 45'' | 28          | 1'   |
-| 2   | 3    |     | 45'' |         | 45'' |             | 1'   |
+| 2   | 3    | 45  | 45'' | 32      | 45'' | 28          | 1'   |
 | 3   | 3    |     | 30'' |         | 30'' |             | 1'   |
 | 4   | 3    |     | 30'' |         | 30'' |             | 1'   |
 | 5   | 4    |     | 15'' |         | 15'' |             | 45'' |
@@ -73,7 +73,7 @@ Nota: peso totale
 | #   | Giri | Row |      | Plank |      | Hammer curl |      |
 | --- | ---- | --- | ---- | ----- | ---- | ----------- | ---- |
 | 1   | 3    | 40  | 45'' |       | 45'' | 12          | 1'   |
-| 2   | 3    |     | 45'' |       | 45'' |             | 1'   |
+| 2   | 3    | 40  | 45'' |       | 45'' | 12          | 1'   |
 | 3   | 3    |     | 30'' |       | 30'' |             | 1'   |
 | 4   | 3    |     | 30'' |       | 30'' |             | 1'   |
 | 5   | 4    |     | 15'' |       | 15'' |             | 45'' |
