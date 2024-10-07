@@ -13,9 +13,9 @@ Range cedimento consentito -1 o -2
 | 3   | 16-07 |
 | 4   | 25-07 |
 | 5   | 02-08 |
-| 6   |       |
-| 7   |       |
-| 8   |       |
+| 6   | 06-09 |
+| 7   | 18-09 |
+| 8   | 25-09 |
 
 ## Squat con bilanciere, 1'30''/2' rec
 
@@ -40,16 +40,16 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 - concentrati sul tenere la schiena dritta. Prima di partire raddrizzati.
 - polsi sempre in posizione
 
-| #   |     | Kg  | Note           |
-| --- | --- | --- | -------------- |
-| 1   | 3x5 | 70  |                |
+| #   |     | Kg    | Note           |
+| --- | --- | ----- | -------------- |
+| 1   | 3x5 | 70    |                |
 | 2   | 3x5 | 70-60 |                |
-| 3   | 3x5 | 70  | Aumenta carico |
-| 4   | 3x5 | 70  |                |
-| 5   | 4x5 | 65  | Aumenta carico |
-| 6   | 4x5 |     |                |
-| 7   | 5x5 |     | Aumenta carico |
-| 8   | 5x5 |     |                |
+| 3   | 3x5 | 70    | Aumenta carico |
+| 4   | 3x5 | 70    |                |
+| 5   | 4x5 | 65    | Aumenta carico |
+| 6   | 4x5 | 50    |                |
+| 7   | 5x5 | 55    | Aumenta carico |
+| 8   | 5x5 | 55    |                |
 
 ## Lat machine x10  + Affondo statico x10 + Distensioni manubri p 60° x10
 
@@ -62,9 +62,9 @@ Schiena contro il muro, porti il manico della scopa fino a toccare il muro sopra
 | 3   | 3    | 45  | 30'' | 28      | 30'' | 32          | 1'   |
 | 4   | 3    | 45  | 30'' | 28      | 30'' | 32          | 1'   |
 | 5   | 4    | 40  | 15'' | saltato | 15'' | 28          | 45'' |
-| 6   | 4    |     | 15'' |         | 15'' |             | 45'' |
-| 7   | 4    |     | 0''  |         | 0''  |             | 45'' |
-| 8   | 4    |     | 0''  |         | 0''  |             | 45'' |
+| 6   | 4    | 40  | 15'' | 24      | 15'' | 28          | 45'' |
+| 7   | 4    | 40  | 0''  | 20      | 0''  | 28          | 45'' |
+| 8   | 4    | 40  | 0''  | 28      | 0''  | 28          | 45'' |
 
 Nota: peso totale
 
@@ -77,9 +77,9 @@ Nota: peso totale
 | 3   | 3    | 40  | 30'' |       | 30'' | 12          | 1'   |
 | 4   | 3    | 40  | 30'' |       | 30'' | 12          | 1'   |
 | 5   | 4    | 40  | 15'' |       | 15'' | 12          | 45'' |
-| 6   | 4    |     | 15'' |       | 15'' |             | 45'' |
-| 7   | 4    |     | 0''  |       | 0''  |             | 45'' |
-| 8   | 4    |     | 0''  |       | 0''  |             | 45'' |
+| 6   | 4    | 40  | 15'' |       | 15'' | 12          | 45'' |
+| 7   | 4    | 40  | 0''  |       | 0''  | 12          | 45'' |
+| 8   | 4    | 40  | 0''  |       | 0''  | 12          | 45'' |
 
 Nota: peso totale
 
