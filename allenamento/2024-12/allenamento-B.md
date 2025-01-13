@@ -7,6 +7,7 @@
 | #   | Data  |
 | --- | ----- |
 | 1   | 11-12 |
+| 1   | 10-01 |
 | 2   |       |
 | 3   |       |
 | 4   |       |
@@ -19,6 +20,7 @@
 
 | #   | Ripetizioni | Rec. |
 | --- | ----------- | ---- |
+| 1   | 2           | 30'' |
 | 1   | 2           | 30'' |
 | 2   | 2           | 30'' |
 | 3   | 2           | 30'' |
@@ -40,6 +42,7 @@ Recupero: 1'30''-2'
 | #   | Serie          | Kg      |
 | --- | -------------- | ------- |
 | 1   | 4x6 + 1 (-20%) | 60 - 50 |
+| 1   | 4x6 + 1 (-20%) | 50 - 45 |
 | 2   | 4x6 + 1 (-20%) |         |
 | 3   | 4x7 + 1 (-20%) |         |
 | 4   | 4x7 + 1 (-20%) |         |
@@ -50,20 +53,21 @@ Recupero: 1'30''-2'
 
 Nota: peso totale
 
-## RDL manubri
+## RDL manubri, 2'' concentrica ed eccentrica
 
 Recupero: 1'30''-2'
 
 | #   | Serie           | Kg  |
 | --- | --------------- | --- |
-| 1   | 3x8 + 1 (-20%)  | 64  |
-| 2   | 3x8 + 1 (-20%)  |     |
-| 3   | 3x9 + 1 (-20%)  |     |
-| 4   | 3x9 + 1 (-20%)  |     |
-| 5   | 4x9 + 1 (-20%)  |     |
-| 6   | 4x9 + 1 (-20%)  |     |
-| 7   | 4x10 + 1 (-20%) |     |
-| 8   | 4x10 + 1 (-20%) |     |
+| 1   | 3x6 + 1 (-20%)  | 64  |
+| 1   | 3x6 + 1 (-20%)  | 55  |
+| 2   | 3x6 + 1 (-20%)  |     |
+| 3   | 3x7 + 1 (-20%)  |     |
+| 4   | 3x7 + 1 (-20%)  |     |
+| 5   | 4x7 + 1 (-20%)  |     |
+| 6   | 4x7 + 1 (-20%)  |     |
+| 7   | 4x8 + 1 (-20%)  |     |
+| 8   | 4x8 + 1 (-20%)  |     |
 
 Nota: peso totale
 
@@ -75,6 +79,7 @@ Recupero: 1'30''-2'
 
 | #   | Serie          | Kg      |
 | --- | -------------- | ------- |
+| 1   | 4x6 + 1 (-20%) | 45 - 35 |
 | 1   | 4x6 + 1 (-20%) | 45 - 35 |
 | 2   | 4x6 + 1 (-20%) |         |
 | 3   | 4x7 + 1 (-20%) |         |
@@ -90,10 +95,12 @@ Nota: peso totale
 
 Recupero: 1'
 
+- fai un passo indietro rispetto il solito
 - gancio in alto
 - braccio disteso durante l'esecuzione
 - chiappe e schiena dure
-- quando risali, il braccio sale un po' oltre rispetto la linea della spalla
+- **quando risali, il braccio sale un po' oltre rispetto la linea della spalla**
+- abbassati un po' in avanti col busto
 
 ### Se provi dolore
 
@@ -103,7 +110,8 @@ Recupero: 1'
 | #   | Serie      | Kg   |
 | --- | ---------- | ---- |
 | 1   | 3x12       | 12.5 |
-| 2   | 3x12       |      |
+| 1   | 3x12       | 12.5 |
+| 2   | 3x12       | 10   |
 | 3   | 3x13-12-12 |      |
 | 4   | 3x13-12-12 |      |
 | 5   | 3x13-13-12 |      |
@@ -119,7 +127,8 @@ Recupero: 1'30''-2'
 
 | #   | Serie          | Kg      |
 | --- | -------------- | ------- |
-| 1   | 4x6 + 1 (-20%) | 25 - 20 |
+| 1   | 4x6 + 1 (-20%) | 45 - 40 |
+| 1   | 4x6 + 1 (-20%) | 45 - 40 |
 | 2   | 4x6 + 1 (-20%) |         |
 | 3   | 4x7 + 1 (-20%) |         |
 | 4   | 4x7 + 1 (-20%) |         |
@@ -128,7 +137,7 @@ Recupero: 1'30''-2'
 | 7   | 5x7 + 1 (-20%) |         |
 | 8   | 5x7 + 1 (-20%) |         |
 
-Nota: peso totale
+Nota: peso totale (con barra)
 
 ## Row machine singolo
 
@@ -138,6 +147,7 @@ Fai movimento lentamente
 
 | #   | Serie      | Kg  |
 | --- | ---------- | --- |
+| 1   | 3x12       | 25  |
 | 1   | 3x12       | 25  |
 | 2   | 3x12       |     |
 | 3   | 3x13-12-12 |     |
