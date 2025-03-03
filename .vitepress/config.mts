@@ -18,16 +18,16 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
-            text: "2024-12",
+            text: "2025-02",
             collapsed: false,
             items: [
               {
                 text: "Scheda A",
-                link: "/allenamento/2024-12/allenamento-A",
+                link: "/allenamento/2025-02/allenamento-A",
               },
               {
                 text: "Scheda B",
-                link: "/allenamento/2024-12/allenamento-B",
+                link: "/allenamento/2025-02/allenamento-B",
               },
             ],
           },
@@ -35,6 +35,20 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2024-12",
+                collapsed: false,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2024-12/allenamento-A",
+                  },
+                  {
+                    text: "Scheda B",
+                    link: "/allenamento/2024-12/allenamento-B",
+                  },
+                ],
+              },
               {
                 text: "2024-10",
                 collapsed: false,

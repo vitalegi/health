@@ -1,0 +1,131 @@
+# 2025-02 - B
+
+[[toc]]
+
+## Sessioni
+
+| #   | Data  |
+| --- | ----- |
+| 1   | 28-02 |
+| 2   |       |
+| 3   |       |
+| 4   |       |
+| 5   |       |
+| 6   |       |
+| 7   |       |
+| 8   |       |
+
+## Plank
+
+| #   | Ripetizioni | Rec. |
+| --- | ----------- | ---- |
+| 1   | 2           | 30'' |
+| 2   | 2           | 30'' |
+| 3   | 2           | 30'' |
+| 4   | 2           | 30'' |
+| 5   | 3           | 30'' |
+| 6   | 3           | 30'' |
+| 7   | 3           | 30'' |
+| 8   | 3           | 30'' |
+
+## Shoulder Press non-PURE, 4'' concentrica, 2'' fermo, 4'' eccentrica
+
+Recupero: 1'30''-2'
+
+- la pausa è giù (in buca)
+
+| #   | Serie    | Kg  |
+| --- | -------- | --- |
+| 1   | 2x8 10RM | 10  |
+| 2   | 2x8 10RM |     |
+| 3   | 2x9 10RM |     |
+| 4   | 2x9 10RM |     |
+| 5   | 3x8 10RM |     |
+| 6   | 3x8 10RM |     |
+| 7   | 3x9 10RM |     |
+| 8   | 3x9 10RM |     |
+
+## Leg extension, 2'' isometria
+
+Recupero: 1'
+
+- quando scendi fai un minimo di pausa
+- quando sali, fai 2'' su
+
+| #   | Serie    | Kg  |
+| --- | -------- | --- |
+| 1   | 3x12     | 30  |
+| 2   | 3x12     |     |
+| 3   | 13-12-12 |     |
+| 4   | 13-12-12 |     |
+| 5   | 13-13-12 |     |
+| 6   | 13-13-12 |     |
+| 7   | 3x13     |     |
+| 8   | 3x13     |     |
+
+## Pulldown PURE, 4'' concentrica, 2'' isometria, 4'' eccentrica
+
+Recupero: 1'30''-2'
+
+- pausa giù
+
+| #   | Serie    | Kg  |
+| --- | -------- | --- |
+| 1   | 2x8 10RM | 50  |
+| 2   | 2x8 10RM |     |
+| 3   | 2x9 10RM |     |
+| 4   | 2x9 10RM |     |
+| 5   | 3x8 10RM |     |
+| 6   | 3x8 10RM |     |
+| 7   | 3x9 10RM |     |
+| 8   | 3x9 10RM |     |
+
+## Leg curl, 2'' isometria
+
+Recupero: 1'
+
+- pausa giù
+
+| #   | Serie    | Kg  |
+| --- | -------- | --- |
+| 1   | 3x12     | 15  |
+| 2   | 3x12     |     |
+| 3   | 13-12-12 |     |
+| 4   | 13-12-12 |     |
+| 5   | 13-13-12 |     |
+| 6   | 13-13-12 |     |
+| 7   | 3x13     |     |
+| 8   | 3x13     |     |
+
+## Low Row PURE, 4'' concentrica, 2'' isometria, 4'' eccentrica
+
+Recupero: 1'30''-2'
+
+| #   | Serie    | Kg    |
+| --- | -------- | ----- |
+| 1   | 2x8 10RM | 15-10 |
+| 2   | 2x8 10RM |       |
+| 3   | 2x9 10RM |       |
+| 4   | 2x9 10RM |       |
+| 5   | 3x8 10RM |       |
+| 6   | 3x8 10RM |       |
+| 7   | 3x9 10RM |       |
+| 8   | 3x9 10RM |       |
+
+## Calf
+
+Recupero: 30''
+
+- piedi doppi
+- senza peso
+
+| #   | Serie | Kg  |
+| --- | ----- | --- |
+| 1   | 3x15  | -   |
+| 2   | 3x15  | -   |
+| 3   | 3x15  | -   |
+| 4   | 3x15  | -   |
+| 5   | 3x15  | -   |
+| 6   | 3x15  | -   |
+| 7   | 3x15  | -   |
+| 8   | 3x15  | -   |
