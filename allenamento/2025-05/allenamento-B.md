@@ -17,16 +17,16 @@
 
 ## Crunch
 
-| #   | Ripetizioni | Rec. |
-| --- | ----------- | ---- |
-| 1   | 2x15        | 30'' |
-| 2   | 2x15        | 30'' |
-| 3   | 2x15        | 30'' |
-| 4   | 2x15        | 30'' |
-| 5   | 3x15        | 30'' |
-| 6   | 3x15        | 30'' |
-| 7   | 3x15        | 30'' |
-| 8   | 3x15        | 30'' |
+| #   | Ripetizioni  | Rec. |
+| --- | ------------ | ---- |
+| 1   | 2x15         | 30'' |
+| 2   | 2x15 -> 3x10 | 30'' |
+| 4   | 3x10         | 30'' |
+| 4   | 3x10         | 30'' |
+| 5   | 3x10         | 30'' |
+| 6   | 3x10         | 30'' |
+| 7   | 3x10         | 30'' |
+| 8   | 3x10         | 30'' |
 
 ## Shoulder Press non-PURE
 
@@ -100,6 +100,8 @@ Recupero: 1'30''-2'
 
 - fai su una panchetta
 - presa abbastanza stretta, mano sull'interno della curva della parte zigrinata interna
+
+![Presa](./ez.jpg "Presa")
 
 | #   | Serie    | Kg  |
 | --- | -------- | --- |
