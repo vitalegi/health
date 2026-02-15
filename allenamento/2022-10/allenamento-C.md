@@ -119,7 +119,7 @@ STRIPPING: esegui l'esercizio con 10RM, quindi cali il peso e vai a cedimento, r
 
 ## 3 esercizi per addominali a piacere in sequenza a circuito
 
-3 esercizi per addominali a piacere in sequenza a circuito x 30'' (3 giri con 1’ di recupero)
+3 esercizi per addominali a piacere in sequenza a circuito x 30'' (3 giri con 1' di recupero)
 
 ### Addominali
 

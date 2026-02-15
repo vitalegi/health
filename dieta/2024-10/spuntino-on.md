@@ -1,6 +1,6 @@
 # 2024-10 Spuntino ON
 
-## Spuntino 1: C40 - P20 – F15
+## Spuntino 1: C40 - P20 - F15
 
 **Scegline 1**
 
@@ -34,7 +34,7 @@ N.B DIMMEZZA se usi budino proteico o simili, o yogurt greco alla frutta o yogur
 
 N.B. DIMEZZA se usi prosciutto cotto o uova o salmone
 
-## Spuntino 2: C40 - P20 – F/
+## Spuntino 2: C40 - P20 - F/
 
 **Scegline 1**
 

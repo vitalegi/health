@@ -6,24 +6,15 @@
 
 | Nutriente               | Valore |
 | ----------------------- | ------ |
-| Acqua                   | 4l/die |
+| Acqua                   | 3l/die |
 | Sale iodato o sale rosa | 4g/die |
 
-## C150-P160-F60 (1780kcal)
-
-### OFF: C160 - P120 - F70 (1750kcal)
+### C130 - P140 - F50 (1530kcal)
 
 - Colazione: C40 - P20 - F15
-- Pranzo: C50 - P40 -F20
-- Cena: C50 - P40 - F20
+- Pranzo: C/ - P50 - F10
+- Cena: C70 - P50 - F10
 - Spuntino: C20 - P20 - F15
-
-### ON: C220 - P140 - F70 (2070kcal)
-
-- Colazione: C40 - P20 - F15
-- Pranzo: C70 - P50 -F20
-- Cena: C70 - P50 - F20
-- Spuntino: C40 - P20 - F15
 
 ## Note
 
@@ -40,7 +31,4 @@ VERDURE SECONDO LA STAGIONALITA' E IL PROPRIO GUSTO PERSONALE
 ## INTEGRAZIONE RACCOMANDATA
 
 - Colazione: 1cps di Vit. C
-- Pre-wo: 5g di EAA
-- Post-wo: 5g di EAA + 1g Omega 3
 - Pranzo e cena: 600mg ALA (10/15 minuti prima del pasto)
-- Cena/Pasto serale: 4000U.I. Vit. D + 3cps di ZMA

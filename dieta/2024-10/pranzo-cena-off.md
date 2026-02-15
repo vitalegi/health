@@ -1,4 +1,4 @@
-# 2024-10 Pranzo e cena OFF (C50–P40–F20)
+# 2024-10 Pranzo e cena OFF (C50-P40-F20)
 
 **Scegline 1**
 
@@ -18,7 +18,7 @@ CONDIMENTO: passata di pomodoro, pesto o altri sughi a piacere
 
 - 160g di petto di pollo o di roast-beef
 - 150g di petto di tacchino (preferibilmente non il salume)
-- 180g di bovino o carne rossa (se scegli il suino come carne rossa, l’unico taglio consentito è la lonza di suino)
+- 180g di bovino o carne rossa (se scegli il suino come carne rossa, l'unico taglio consentito è la lonza di suino)
 - 110g di bresaola
 - 170g di prosciutto cotto sgrassato
 - 200g di merluzzo o nasello
@@ -26,10 +26,10 @@ CONDIMENTO: passata di pomodoro, pesto o altri sughi a piacere
 - 190g di salmone
 - 170g di spigola o branzino
 - 160g di tonno fresco
-- 160g di tonno in scatola all’olio extravergine (peso sgocciolato)
+- 160g di tonno in scatola all'olio extravergine (peso sgocciolato)
 - 250g di albume + 2 uova intere
 - 120g di formaggi magri (es. ricotta)
-- 240g di legumi in scatola o 80g di legumi secchi a scelta (preferibilmente secchi) – qui riduci del 20% la quota di carboidrati
+- 240g di legumi in scatola o 80g di legumi secchi a scelta (preferibilmente secchi) - qui riduci del 20% la quota di carboidrati
 - 300g di molluschi (parte edibile)
 - 250g di gamberetti
 
@@ -41,7 +41,7 @@ Frequenza consigliata per formaggi magri: massimo 2 v./sett.
 
 **Scegline 1**
 
-- 15g di olio extravergine d’oliva a crudo (1 cucchiaio)
+- 15g di olio extravergine d'oliva a crudo (1 cucchiaio)
 - 45g di avocado
 
 N.B.: DIMEZZA quando usi carne rossa, salmone, mozzarella di bufala, uova, o pesto o altri condimenti ad elevato tenore lipidico

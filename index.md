@@ -9,9 +9,9 @@ hero:
 
 features:
   - title: Scheda A
-    link: /allenamento/2025-05/allenamento-A
-  - title: Scheda B
-    link: /allenamento/2025-05/allenamento-B
+    link: /allenamento/2026-02/allenamento-A
+  - title: Scheda Casa
+    link: /allenamento/2026-02/allenamento-casa
   - title: Info
-    link: /dieta/2025-05/info
+    link: /dieta/2026-02/info
 ---

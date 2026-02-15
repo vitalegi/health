@@ -15,10 +15,10 @@
 | Acqua                   | 4l/die          |
 | Sale iodato o sale rosa | 4g/die          |
 | C190-P120-F70           | (1870kcal)      |
-| Colazione               | C30 – P30 – F20 |
-| Pranzo                  | C70 – P30 – F15 |
-| Cena                    | C70 – P30 – F15 |
-| Spuntino                | C20 – P30 – F20 |
+| Colazione               | C30 - P30 - F20 |
+| Pranzo                  | C70 - P30 - F15 |
+| Cena                    | C70 - P30 - F15 |
+| Spuntino                | C20 - P30 - F20 |
 
 ## Note
 
@@ -30,5 +30,5 @@ PRO: carne bianca, carne rossa possibilmente magra, pesce, uova, legumi (fonti s
 
 FAT: olio evo, avocado, frutta secca, creme spalmabili, ecc..
 
-VERDURE SECONDO LA STAGIONALITA’ E IL PROPRIO GUSTO PERSONALE
+VERDURE SECONDO LA STAGIONALITA' E IL PROPRIO GUSTO PERSONALE
 

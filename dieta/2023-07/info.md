@@ -13,19 +13,19 @@
 
 Segui se ti alleni.
 
-- Colazione: C30 – P30 – F20
-- Pranzo: C60 – P50 – F10
-- Cena: C60 – P50 – F10
-- Spuntino: C20 – P30 – F20
+- Colazione: C30 - P30 - F20
+- Pranzo: C60 - P50 - F10
+- Cena: C60 - P50 - F10
+- Spuntino: C20 - P30 - F20
 
 ## OFF: C150-P160-F60 (1780kcal)
 
 Segui se ti riposi.
 
-- Colazione: C30 – P30 – F20
-- Pranzo: C60 – P50 – F10
-- Cena: C60 – P50 – F10
-- Spuntino: C/ – P30 – F20
+- Colazione: C30 - P30 - F20
+- Pranzo: C60 - P50 - F10
+- Cena: C60 - P50 - F10
+- Spuntino: C/ - P30 - F20
 
 ## Note
 
@@ -37,7 +37,7 @@ PRO: carne bianca, carne rossa possibilmente magra, pesce, uova, legumi (fonti s
 
 FAT: olio evo, avocado, frutta secca, creme spalmabili, ecc..
 
-VERDURE SECONDO LA STAGIONALITA’ E IL PROPRIO GUSTO PERSONALE
+VERDURE SECONDO LA STAGIONALITA' E IL PROPRIO GUSTO PERSONALE
 
 ## INTEGRAZIONE RACCOMANDATA
 

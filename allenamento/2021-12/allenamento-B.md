@@ -83,7 +83,7 @@ Apertura larga, simil-manubrio moto.
 
 Non toccare le cosce scendendo.
 
-## Affondi su tapis roulant (15 round totali 30:30) – pendenza 4% e velocita 2.0/2.5
+## Affondi su tapis roulant (15 round totali 30:30) - pendenza 4% e velocita 2.0/2.5
 
 | Data       | Km/h |
 | ---------- | ---- |

@@ -1,4 +1,4 @@
-# 2024-12 Spuntino ON (C40 - P20 – F15)
+# 2024-12 Spuntino ON (C40 - P20 - F15)
 
 **Scegline 1**
 

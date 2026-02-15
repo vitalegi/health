@@ -9,20 +9,20 @@
 | Acqua                   | 4l/die |
 | Sale iodato o sale rosa | 4g/die |
 
-### OFF: C160 – P120 – F70 (1750kcal)
+### OFF: C160 - P120 - F70 (1750kcal)
 
 - Colazione: C40 - P20 - F15
-- Pranzo: C50 – P40 –F20
-- Cena: C50 – P40 – F20
-- Spuntino: C20 - P20 – F15
+- Pranzo: C50 - P40 -F20
+- Cena: C50 - P40 - F20
+- Spuntino: C20 - P20 - F15
 
-### ON: C220 – P140 – F70 (2070kcal)
+### ON: C220 - P140 - F70 (2070kcal)
 
 - Colazione: C40 - P20 - F15
-- Pranzo: C70 – P50 –F20
-- Cena: C70 – P50 – F20
-- Spuntino 1: C40 - P20 – F15
-- Spuntino 2: C40 - P20 – F/
+- Pranzo: C70 - P50 -F20
+- Cena: C70 - P50 - F20
+- Spuntino 1: C40 - P20 - F15
+- Spuntino 2: C40 - P20 - F/
 
 ## Note
 
@@ -34,7 +34,7 @@ PRO: carne bianca, carne rossa possibilmente magra, pesce, uova, legumi (fonti s
 
 FAT: olio evo, avocado, frutta secca, creme spalmabili, ecc..
 
-VERDURE SECONDO LA STAGIONALITA’ E IL PROPRIO GUSTO PERSONALE
+VERDURE SECONDO LA STAGIONALITA' E IL PROPRIO GUSTO PERSONALE
 
 ## INTEGRAZIONE RACCOMANDATA
 
