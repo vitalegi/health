@@ -13,12 +13,12 @@
 
 **Scegline 1**
 
-- 50g di biscotti plasmon o oro saiwa o altri biscotti secchi (10 biscotti)
-- 50g di pane a fette tostato (2 fetta) + 20g di marmellata di frutta (almeno 75% di frutta)
-- 50g di cereali (fiocchi di frumento idealmente)
-- 64g di fette biscottate normali o integrali (circa 8 fette) + 30g di marmellata di frutta (almeno 75% di frutta)
-- 70g di avena
-- 2 frutti
+- 25g di biscotti plasmon o oro saiwa o altri biscotti secchi (5 biscotti)
+- 30g di pane a fette tostato
+- 25g di cereali (fiocchi di frumento idealmente)
+- 32g di fette biscottate normali o integrali (circa 4 fette) + 15g di marmellata di frutta (almeno 75% di frutta)
+- 35g di avena
+- 1 frutto
 
 N.B. DIMEZZA se usi yogurt greco alla frutta, yogurt alla frutta e budino proteico o prodotti simili
 
