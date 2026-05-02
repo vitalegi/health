@@ -18,16 +18,16 @@ export default defineConfig({
         text: "Palestra",
         items: [
           {
-            text: "2026-02",
+            text: "2026-04",
             collapsed: false,
             items: [
               {
                 text: "Scheda A",
-                link: "/allenamento/2026-02/allenamento-A",
+                link: "/allenamento/2026-04/allenamento-A",
               },
               {
-                text: "Casa",
-                link: "/allenamento/2026-02/allenamento-casa",
+                text: "Scheda B",
+                link: "/allenamento/2026-04/allenamento-B",
               },
             ],
           },
@@ -35,6 +35,20 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2026-02",
+                collapsed: false,
+                items: [
+                  {
+                    text: "Scheda A",
+                    link: "/allenamento/2026-02/allenamento-A",
+                  },
+                  {
+                    text: "Casa",
+                    link: "/allenamento/2026-02/allenamento-casa",
+                  },
+                ],
+              },
               {
                 text: "2025-02",
                 collapsed: false,
@@ -390,28 +404,28 @@ export default defineConfig({
         text: "Dieta",
         items: [
           {
-            text: "2026-02",
+            text: "2026-04",
             collapsed: false,
             items: [
               {
                 text: "Info",
-                link: "/dieta/2026-02/info",
+                link: "/dieta/2026-04/info",
               },
               {
                 text: "Colazione (C40-P20-F15)",
-                link: "/dieta/2026-02/colazione",
+                link: "/dieta/2026-04/colazione",
               },
               {
                 text: "Pranzo (C/-P50-F10)",
-                link: "/dieta/2026-02/pranzo",
+                link: "/dieta/2026-04/pranzo",
               },
               {
                 text: "Spuntino (C20-P20-F15)",
-                link: "/dieta/2026-02/spuntino",
+                link: "/dieta/2026-04/spuntino",
               },
               {
                 text: "Cena (C70-P50-F10)",
-                link: "/dieta/2026-02/cena",
+                link: "/dieta/2026-04/cena",
               },
             ],
           },
@@ -419,6 +433,32 @@ export default defineConfig({
             text: "Archivio",
             collapsed: true,
             items: [
+              {
+                text: "2026-02",
+                collapsed: false,
+                items: [
+                  {
+                    text: "Info",
+                    link: "/dieta/2026-02/info",
+                  },
+                  {
+                    text: "Colazione (C40-P20-F15)",
+                    link: "/dieta/2026-02/colazione",
+                  },
+                  {
+                    text: "Pranzo (C/-P50-F10)",
+                    link: "/dieta/2026-02/pranzo",
+                  },
+                  {
+                    text: "Spuntino (C20-P20-F15)",
+                    link: "/dieta/2026-02/spuntino",
+                  },
+                  {
+                    text: "Cena (C70-P50-F10)",
+                    link: "/dieta/2026-02/cena",
+                  },
+                ],
+              },
               {
                 text: "2024-12",
                 collapsed: false,
